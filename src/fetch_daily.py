@@ -207,7 +207,7 @@ def tts(text, out_path):
 def esc(s):
     return (s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
 
-def render_item(idx, it, audio_path):
+def render_item(idx, it, audio_path, date_str, prefix=""):
     summary = esc(it["title_zh"])
     extra = ""
     if it.get("abstract_zh"):
@@ -216,8 +216,9 @@ def render_item(idx, it, audio_path):
     source = f"【{esc(it['journal'])}】"
     audio = ""
     if audio_path and audio_path.exists():
-        audio = (f"<audio controls preload=\"none\" src=\"audio/{audio_path.name}\"></audio>"
-                 f"<button class=\"play\" data-audio=\"audio/{audio_path.name}\">▶ 朗读本条</button>")
+        audio_url = f"{prefix}audio/{date_str}/{audio_path.name}"
+        audio = (f"<audio controls preload=\"none\" src=\"{audio_url}\"></audio>"
+                 f"<button class=\"play\" data-audio=\"{audio_url}\">▶ 朗读本条</button>")
     else:
         audio = "<p class=\"noaudio\">（今日语音生成中，稍后可用）</p>"
     return f"""<details>
@@ -230,11 +231,11 @@ def render_item(idx, it, audio_path):
 </details>"""
 
 def render_page(date_str, groups, archives, is_index=True):
-    date_cn = date_str
-    nav = '<a href="index.html">今天</a>'
+    prefix = "" if is_index else "../"
+    nav = f'<a href="{prefix}index.html">今天</a>'
     for d in sorted(archives, reverse=True):
         if d != date_str:
-            nav += f' | <a href="archive/{d}.html">{d}</a>'
+            nav += f' | <a href="{prefix}archive/{d}.html">{d}</a>'
     body = ""
     n = 0
     for gname, items in groups:
@@ -243,7 +244,7 @@ def render_page(date_str, groups, archives, is_index=True):
         body += f"<h2>▍{gname}</h2>\n"
         for it in items:
             n += 1
-            body += render_item(n, it, AUDIO / date_str / f"{n}.mp3") + "\n"
+            body += render_item(n, it, AUDIO / date_str / f"{n}.mp3", date_str, prefix) + "\n"
     page = f"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -344,8 +345,11 @@ def main():
     for gname, items in groups:
         for it in items:
             n += 1
+            out_path = AUDIO / date_str / f"{n}.mp3"
+            if out_path.exists() and out_path.stat().st_size > 1000:
+                continue
             text = f"【{it['journal']}】{it['title_zh']}。{it['abstract_zh']}"[:1200]
-            ok = tts(text, AUDIO / date_str / f"{n}.mp3")
+            ok = tts(text, out_path)
             if not ok:
                 print(f"  [warn] 语音失败 {gname} #{n}")
             time.sleep(0.5)
@@ -356,7 +360,8 @@ def main():
 
     index_html = render_page(date_str, groups, archives, is_index=True)
     (SITE / "index.html").write_text(index_html, encoding="utf-8")
-    (ARCHIVE / f"{date_str}.html").write_text(index_html, encoding="utf-8")
+    arch_html = render_page(date_str, groups, archives, is_index=False)
+    (ARCHIVE / f"{date_str}.html").write_text(arch_html, encoding="utf-8")
 
     n = 0
     for gname, items in groups:
