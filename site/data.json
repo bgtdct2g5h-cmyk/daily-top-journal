@@ -1,0 +1,308 @@
+{
+ "date": "2026-08-24",
+ "generated_at": "2026-08-24T20:13:04+08:00",
+ "groups": [
+  [
+   "综合",
+   [
+    {
+     "journal": "Nature",
+     "title": "Wake-activated neuronal populations that regulate sleep drive.",
+     "abstract": "Prolonged wakefulness increases sleep drive and is normally compensated for by increased sleep",
+     "date": "2026-08-19",
+     "pmid": "42618797",
+     "doi": "10.1126/science.adk0997",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42618797/",
+     "title_zh": "调节睡眠驱动的觉醒激活神经元群。",
+     "abstract_zh": "长时间的清醒会增加睡眠动力，通常会通过增加睡眠来补偿",
+     "audio": "audio/2026-08-24/1.mp3"
+    },
+    {
+     "journal": "Nature",
+     "title": "Observation of conformal field theory spectra in a quantum simulator.",
+     "abstract": "Conformal field theories (CFTs) feature prominently in high-energy physics",
+     "date": "2026-08-19",
+     "pmid": "42618796",
+     "doi": "10.1088/1742-5468/2016/06/064003",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42618796/",
+     "title_zh": "量子模拟器中共形场论谱的观测。",
+     "abstract_zh": "共形场理论（CFTs）在高能物理中占有重要地位",
+     "audio": "audio/2026-08-24/2.mp3"
+    },
+    {
+     "journal": "Nature",
+     "title": "Human brain organoids record the passage of time over multiple years.",
+     "abstract": "The human brain develops and matures over an exceptionally prolonged period of time that spans nearly two decades of life. Processes that govern species-specific aspects of human postnatal brain development are difficult to study in animal models",
+     "date": "2026-08-19",
+     "pmid": "42618795",
+     "doi": "10.1089/omi.2011.0118",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42618795/",
+     "title_zh": "人类大脑类器官记录了多年的时间流逝。",
+     "abstract_zh": "人类大脑的发育和成熟经历了一段异常漫长的时间，跨度将近20年。控制人类出生后大脑发育的物种特异性方面的过程很难在动物模型中研究",
+     "audio": "audio/2026-08-24/3.mp3"
+    },
+    {
+     "journal": "Nature",
+     "title": "Discovery of a star sensitive to the spin of Sagittarius A.",
+     "abstract": "Residing in the centre of the Milky Way, Sagittarius A* (Sgr A*) is the closest massive black hole",
+     "date": "2026-08-19",
+     "pmid": "42618794",
+     "doi": "10.1086/155143",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42618794/",
+     "title_zh": "发现一颗对射手座A旋转敏感的恒星。",
+     "abstract_zh": "射手座A * （ Sgr A * ）位于银河系中心，是最近的大质量黑洞",
+     "audio": "audio/2026-08-24/4.mp3"
+    },
+    {
+     "journal": "Science",
+     "title": "Touch and pain shape what brain imaging sees.",
+     "abstract": "Sensory inputs influence different blood vessel networks, affecting the precision of brain scans.",
+     "date": "2026-08-20",
+     "pmid": "42623482",
+     "doi": "10.1126/science.aek1809",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42623482/",
+     "title_zh": "触摸和疼痛塑造了大脑成像所看到的内容。",
+     "abstract_zh": "感官输入会影响不同的血管网络，影响脑部扫描的精度。",
+     "audio": "audio/2026-08-24/5.mp3"
+    },
+    {
+     "journal": "Science",
+     "title": "Beyond carbon in renewable energy policy.",
+     "abstract": "China's policy-driven solar expansion shows why climate policy appraisal should look at biodiversity impacts.",
+     "date": "2026-08-20",
+     "pmid": "42623481",
+     "doi": "10.1126/science.aek1460",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42623481/",
+     "title_zh": "在可再生能源政策中超越碳。",
+     "abstract_zh": "中国政策驱动的太阳能扩张表明，为什么气候政策评估应该考虑生物多样性的影响。",
+     "audio": "audio/2026-08-24/6.mp3"
+    }
+   ]
+  ],
+  [
+   "AI 与机器学习",
+   [
+    {
+     "journal": "arXiv cs.AI",
+     "title": "Primal Acceleration of Newton's Method",
+     "abstract": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of $O(1/k^3)$ in terms of the functional residual. To the best of our knowledge, this is the first second-order method for this problem class attaining this rate while relying solely on one linear system solve per iteration (without solving auxiliary nonlinear regularized subproblems, such as cubic regularization, performing nonlinear parameter searches, or using dual extragradient corrections). Our method can be implemented in a Hessian-free way, using an inexact linear system solver, while preserving the fast global rate. We further extend our construction to arbitrary geometry through Bregman divergence, and to composite optimization problems.",
+     "date": "2026-08-21",
+     "url": "https://arxiv.org/abs/2608.21359v1",
+     "arxiv_id": "2608.21359v1",
+     "title_zh": "牛顿法的原始加速度",
+     "abstract_zh": "提出了一种新的Lipschitz连续Hessian凸函数最小化的直接加速牛顿法。该算法只使用原始变量，每次迭代只执行一次线性求解。通过简单的预定参数选择，实现了函数残差的全局收敛速率为$O(1/k^3)$。据我们所知，这是该问题类实现此速率的第一个二阶方法，而每次迭代仅依赖一个线性系统解（不解决辅助非线性正则化子问题，如三次正则化，执行非线性参数搜索，或使用对偶超梯度修正）。我们的方法可以在保持快速全局速率的同时，使用非精确线性系统解算器以无hessian方式实现。我们通过布雷格曼进一步将我们的构造扩展到任意几何",
+     "audio": "audio/2026-08-24/7.mp3"
+    },
+    {
+     "journal": "arXiv cs.AI",
+     "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+     "abstract": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We introduce VIALS, a visual question-answering benchmark with 161 such interpretation tasks, spanning the types of artifacts examined throughout experimental workflows in the biotech industry (rather than polished figures from publications and textbooks). While frontier vision-language models can now fluently describe natural images, we find that they are unable to accurately interpret these scientific images, reflecting limitations in domain knowledge and domain-specific visual reasoning capabilities. In contrast, scientists with relevant domain expertise find these visual interpretation tasks straightforward. AI that cannot similarly interpret such images will have limited utility in professional life sciences workflows, where such artifacts are central to how scientists reason, communicate, and make decisions.",
+     "date": "2026-08-21",
+     "url": "https://arxiv.org/abs/2608.21357v1",
+     "arxiv_id": "2608.21357v1",
+     "title_zh": "小瓶：生命科学中人工制品视觉解释的基准",
+     "abstract_zh": "在专业的生命科学工作流程中，科学家通常会解释视觉工件（凝胶印迹、显微镜图像、质粒图、流式细胞仪图、分子结构等），以告知研究决策。我们介绍了VIALS，这是一个具有161个这样的解释任务的视觉问答基准，涵盖了生物技术行业中整个实验工作流程中检查的工件类型（而不是出版物和教科书中的抛光数字）。虽然前沿视觉语言模型现在可以流利地描述自然图像，但我们发现它们无法准确地解释这些科学图像，这反映了领域知识和特定领域视觉推理能力的局限性。相比之下，具有相关领域专业知识的科学家发现这些视觉解释任务很简单。不能类似地解释这些图像的人工智能将受到限制",
+     "audio": "audio/2026-08-24/8.mp3"
+    },
+    {
+     "journal": "arXiv cs.AI",
+     "title": "AI with Authority, from Application to Silicon",
+     "abstract": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only economical but essential to productivity --- it is the incorruptible referee that lets one person safely direct autonomous machine work at scale. In five weeks, one researcher on consumer AI subscriptions directed a small fleet of AI agents from application code, through a verified compiler and executive, to a RISC-V processor taped out on a community silicon shuttle; no proof passed through human review, and no RTL was written by a human. The working discipline --- the Salt method --- rests on a proof kernel no hallucinated proof can pass: mathematical claims travel between agents as kernel-checked artifacts, and human attention is reserved for statements, designs, and rulings. Verification is stated link by link, from the Lean 4 kernel to SAT-checked equivalence at the silicon boundary. We publish the complete accounting: theorem provenance, a pre-registered token meter, floor-bounded human time, and an error ledger whose catch numbering runs to #256 --- a monotone counter over the mathematics campaign's append-only flags ledger, maintained 2026-07-07 to 2026-07-20 (one number, #79, was never assigned; later catches are recorded un-numbered) --- against zero incorrect proofs reaching the record.",
+     "date": "2026-08-21",
+     "url": "https://arxiv.org/abs/2608.21356v1",
+     "arxiv_id": "2608.21356v1",
+     "title_zh": "具有权威的人工智能，从应用到硅",
+     "abstract_zh": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only economical but essential to productivity --- it is the incorruptible referee that lets one person safely direct autonomous machine work at scale. In five weeks, one researcher on consumer AI subscriptions directed a small fleet of AI agents from application code, through a verified compiler and executive, to a RISC-V processor taped out on a community silicon shuttle; no proof passed through human review, and no RTL was written by a human. The working discipline --- the Salt method --- rests on a proof kernel no hallucinated proof can pass: mathematical claims travel between agents as kernel-checked artifacts, and human attention is reserved for statements, designs, and r",
+     "audio": "audio/2026-08-24/9.mp3"
+    },
+    {
+     "journal": "arXiv cs.AI",
+     "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
+     "abstract": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many context-biasing methods improve recognition accuracy, they often do not address the practical requirements of modern production ASR systems: streaming inference, efficient batched decoding, user-specific context lists, and low runtime overhead. We propose TurboBias 2.0, a production-oriented framework for efficient phrase boosting in Transducer-based ASR systems. The framework extends GPU-accelerated TurboBias with a case-insensitive boosting graph and per-stream batched decoding, allowing each utterance in a batch to use an independent context-biasing configuration. This enables personalized context biasing for multiple simultaneous users without sharing or mixing their context lists. The proposed framework supports both offline and streaming inference and can be used with greedy and beam-search decoding. Experiments show that TurboBias 2.0 improves contextual phrase recognition while preserving low latency and high throughput.",
+     "date": "2026-08-21",
+     "url": "https://arxiv.org/abs/2608.21343v1",
+     "arxiv_id": "2608.21343v1",
+     "title_zh": "TurboBias 2.0：高效ASR系统的流上下文偏置",
+     "abstract_zh": "上下文化对于生产自动语音识别（ASR）系统至关重要，在这种系统中，必须在严格的延迟限制下准确识别用户提供的短语。尽管许多上下文偏置方法提高了识别精度，但它们通常不能满足现代生产ASR系统的实际需求：流推理、高效的批处理解码、用户特定的上下文列表和低运行时开销。我们提出了TurboBias 2.0，这是一个面向生产的框架，用于在基于传感器的ASR系统中进行有效的相位提升。该框架通过不区分大小写的增强图和逐流批处理解码扩展了gpu加速的TurboBias，允许批处理中的每个话语使用独立的上下文偏置配置。这可以为多个同时使用的用户提供个性化的上下文偏差，而无需共享或混合他们的上下文列表。的propo",
+     "audio": "audio/2026-08-24/10.mp3"
+    },
+    {
+     "journal": "arXiv cs.LG",
+     "title": "Primal Acceleration of Newton's Method",
+     "abstract": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of $O(1/k^3)$ in terms of the functional residual. To the best of our knowledge, this is the first second-order method for this problem class attaining this rate while relying solely on one linear system solve per iteration (without solving auxiliary nonlinear regularized subproblems, such as cubic regularization, performing nonlinear parameter searches, or using dual extragradient corrections). Our method can be implemented in a Hessian-free way, using an inexact linear system solver, while preserving the fast global rate. We further extend our construction to arbitrary geometry through Bregman divergence, and to composite optimization problems.",
+     "date": "2026-08-21",
+     "url": "https://arxiv.org/abs/2608.21359v1",
+     "arxiv_id": "2608.21359v1",
+     "title_zh": "牛顿法的原始加速度",
+     "abstract_zh": "提出了一种新的Lipschitz连续Hessian凸函数最小化的直接加速牛顿法。该算法只使用原始变量，每次迭代只执行一次线性求解。通过简单的预定参数选择，实现了函数残差的全局收敛速率为$O(1/k^3)$。据我们所知，这是该问题类实现此速率的第一个二阶方法，而每次迭代仅依赖一个线性系统解（不解决辅助非线性正则化子问题，如三次正则化，执行非线性参数搜索，或使用对偶超梯度修正）。我们的方法可以在保持快速全局速率的同时，使用非精确线性系统解算器以无hessian方式实现。我们通过布雷格曼进一步将我们的构造扩展到任意几何",
+     "audio": "audio/2026-08-24/11.mp3"
+    },
+    {
+     "journal": "arXiv cs.LG",
+     "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
+     "abstract": "Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, without explicitly modeling the molecular changes expected under treatment. We propose PerturbRx, a treatment-conditioned representation learning framework that learns intervention-induced latent transitions and uses them as patient-drug response features. PerturbRx trains a drug- and dose-conditioned transition predictor from context-matched but cell-unpaired control and treated single-cell populations, then freezes and transfers the predictor to pretreatment patient profiles without requiring post-treatment measurements. The transition is combined with patient and drug representations to predict response. Across TCGA and patient-derived xenograft benchmarks, PerturbRx achieves the strongest aggregate predictive performance among the evaluated methods. These results support perturbation-pretrained latent transitions as useful representations for patient-level drug-response prediction.",
+     "date": "2026-08-21",
+     "url": "https://arxiv.org/abs/2608.21349v1",
+     "arxiv_id": "2608.21349v1",
+     "title_zh": "PerturbRx：学习治疗条件下的潜在转变，用于预测患者药物反应",
+     "abstract_zh": "缺乏数据和肿瘤异质性限制了患者水平的癌症治疗反应预测。现有的方法通过预处理分子谱和药物表征来预测反应，而没有明确地模拟治疗下预期的分子变化。我们提出了PerturbRx，这是一个治疗条件表征学习框架，可以学习干预诱导的潜在转变，并将其用作患者-药物反应特征。PerturbRx从环境匹配但细胞不配对的对照和处理的单细胞群体中训练药物和剂量条件转换预测器，然后冻结并将预测器转移到预处理患者资料中，而无需治疗后测量。这种转变与患者和药物表征相结合，以预测反应。在TCGA和患者来源的异种移植物基准中，PerturbRx达到了最强的聚合率",
+     "audio": "audio/2026-08-24/12.mp3"
+    }
+   ]
+  ],
+  [
+   "医学与生命科学",
+   [
+    {
+     "journal": "The Lancet",
+     "title": "Rezpegaldesleukin treatment of moderate-to-severe atopic dermatitis (REZOLVE-AD): final results from the 16-week induction period of an international, double-blind, placebo-controlled, randomised phase 2b study.",
+     "abstract": "Rezpegaldesleukin is an interleukin-2 receptor agonist that selectively expands and enhances the function of regulatory T cells (Tregs), offering a novel therapeutic approach for autoimmune and inflammatory diseases such as atopic dermatitis. We aimed to compare the efficacy and safety analyses of rezpegaldesleukin with placebo in adults with moderate-to-severe atopic dermatitis naive to biological treatments. REZOLVE-AD was a phase 2b, randomised, double-blind, placebo-controlled study conducted in 107 community research centres or hospitals in ten countries (Australia, Bulgaria, Canada, Croatia, Czechia, Germany, Hungary, Poland, Spain, and the USA). Eligible patients were adults (aged 18 years or older) with confirmed atopic dermatitis (American Academy of Dermatology Consensus Criteria) diagnosed at least 12 months before enrolment, with moderate-to-severe disease activity defined by an Eczema Area and Severity Index (EASI) score of at least 16·0, validated Investigator Global Assessment for Atopic Dermatitis (vIGA-AD) score of at least 3 (moderate), and at least 10% affected body surface area. Patients were randomly allocated (3:3:3:2) to receive subcutaneous rezpegaldesleukin 24 μg/kg or rezpegaldesleukin 18 μg/kg every 2 weeks, rezpegaldesleukin 24 μg/kg every 4 weeks, or placebo for 16 weeks during the induction period. Randomisation was done by an independent vendor using Randomisation and Trial Supply Management methodology via an interactive response system and was stratified by baseline disease severity (vIGA-AD 3 [moderate] vs 4 [severe]) and geographical region (North America vs rest of world). All patients, investigators, and those assessing outcomes were masked to treatment assignment. Outcomes for the induction period were assessed through week 16 and are included in this report. The primary endpoint was percentage change from baseline in EASI score at week 16. Efficacy and safety analyses were conducted in all randomly assigned patients exposed to study treatment, excluding those enrolled at two sites closed due to Good Clinical Practice non-compliance, both of which received notification of closure approximately 300 days before database lock. All missing data were imputed with multiple imputation. The trial was registered with ClinicalTrials.gov (NCT06136741). 398 patients were enrolled between Nov 15, 2023, and Jan 9, 2025. A total of 393 patients were analysed (104 in the rezpegaldesleukin 24 μg/kg every 2 weeks group, 106 in the rezpegaldesleukin 18 μg/kg every 2 weeks group, 110 in the rezpegaldesleukin 24 μg/kg every 4 weeks group, and 73 in the placebo group); 203 (52%) patients were female and 190 (48%) were male. All three rezpegaldesleukin groups met the primary endpoint. Rezpegaldesleukin showed dose-dependent improvements compared with placebo in mean percentage change in EASI from baseline at week 16: -61% (SE 3·8) for rezpegaldesleukin 24 μg/kg every 2 weeks, -58% (3·8) for rezpegaldesleukin 18 μg/kg every 2 weeks, and -53% (3·7) for rezpegaldesleukin 24 μg/kg every 4 weeks versus -31% (4·5) for placebo. Treatment differences versus placebo were -30 percentage points (95% CI -41·3 to -18·0; p<0·0001) for rezpegaldesleukin 24 μg/kg every 2 weeks, -27 percentage points (-38·5 to -15·7; p<0·0001) for rezpegaldesleukin 18 μg/kg every 2 weeks, and -22 percentage points (-33·3 to -10·3; p=0·0002) for rezpegaldesleukin 24 μg/kg every 4 weeks. Treatment-emergent adverse events observed in at least 5% of rezpegaldesleukin-treated patients (n=320) and greater than placebo (n=73) included injection-site reaction (223 [70%] vs three [4%]), eosinophilia (25 [8%] vs two [3%]), pyrexia (20 [6%] vs two [3%]), headache (20 [6%] vs three [4%]), upper respiratory tract infections (19 [6%] vs four [5%]), and arthralgia (16 [5%] vs one [1%]). Nearly all (>99%) injection-site reactions were mild to moderate in severity and resolved. There was no evidence of an increased risk of serious or severe adverse events, and no deaths were reported during the induction period. Over the 16-week induction period, rezpegaldesleukin treatment resulted in significant and clinically meaningful improvements across multiple clinical endpoints, including the primary endpoint of EASI percentage change from baseline, in comparison with placebo. Rezpegaldesleukin had a clinically favourable adverse event profile in adult patients with moderate-to-severe atopic dermatitis, supporting its further development as a novel Treg-enhancing biological treatment. Nektar Therapeutics.",
+     "date": "2026-08-21",
+     "pmid": "42628554",
+     "doi": "10.1016/S0140-6736(26)01143-8",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42628554/",
+     "title_zh": "Rezpegaldesleukin治疗中重度特应性皮炎（REZOLVE-AD）：一项为期16周的国际双盲、安慰剂对照、随机2b期研究的最终结果",
+     "abstract_zh": "Rezpegaldesleukin是一种白细胞介素-2受体激动剂，可选择性地扩展和增强调节性T细胞（Tregs）的功能，为自身免疫性和炎症性疾病（如特应性皮炎）提供了一种新的治疗方法。我们的目的是比较rezpegaldesleukin和安慰剂对未接受生物治疗的中度至重度特应性皮炎患者的疗效和安全性分析。REZOLVE-AD是一项2b期、随机、双盲、安慰剂对照研究，在10个国家（澳大利亚、保加利亚、加拿大、克罗地亚、捷克、德国、匈牙利、波兰、西班牙和美国）的107个社区研究中心或医院进行。符合条件的患者是在入组前至少12个月确诊患有特应性皮炎（美国皮肤病学会共识标准）的成年人（18岁或以上），并伴有中度至重度疾病活动",
+     "audio": "audio/2026-08-24/13.mp3"
+    },
+    {
+     "journal": "The Lancet",
+     "title": "Expanding regulatory T cells to treat atopic dermatitis.",
+     "abstract": "",
+     "date": "2026-08-21",
+     "pmid": "42628553",
+     "doi": "10.1016/S0140-6736(26)01242-0",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42628553/",
+     "title_zh": "扩增调节性T细胞以治疗特应性皮炎。",
+     "abstract_zh": "",
+     "audio": "audio/2026-08-24/14.mp3"
+    },
+    {
+     "journal": "The Lancet",
+     "title": "Robotic-arm-assisted versus conventional total knee replacement (RACER-Knee): a pragmatic, multicentre, participant-masked and assessor-masked, superiority, randomised controlled trial.",
+     "abstract": "Robotic systems are being increasingly used to assist with total knee replacement (TKR). Whether robotic systems improve outcomes after TKR is uncertain. We aimed to ascertain the clinical efficacy and cost-effectiveness of the Mako robotic-arm system compared with conventional instruments for TKR. We conducted a participant-masked and assessor-masked pragmatic, superiority, randomised controlled trial at ten hospitals in Great Britain involving 33 surgeons. Patients with advanced knee osteoarthritis underwent TKR with conventional instruments (cTKR) or with the Mako robotic-arm-assisted system (rTKR). Key exclusion criteria were inflammatory arthropathy, previous fracture, or the need for complex implants. Participants were randomly assigned (1:1) through a remote computer system using minimisation by age, BMI, centre, surgeon, and primary knee compartment involved. Participants and assessors were masked through methods including using sham incisions, additional draping, and masked operation notes. The primary outcome was the Forgotten Joint Score (FJS) at 12 months after randomisation according to the intention-to-treat principle using a linear mixed-effects model. The prespecified target difference was 12 points. The trial is registered with ISRCTN (ISRCTN27624068), and long-term follow-up is ongoing. Between Dec 21, 2021, and Dec 13, 2023, 807 patients were screened and 339 were randomly assigned: 168 to rTKR and 171 to cTKR. The median age was 68·8 years (IQR 61·3-75·2), 167 (49%) were female, and 172 (51%) were male. At 12 months, the mean FJS was 49·2 (SD 28·4; n=154) in the rTKR group and 50·2 (29·9; n=158) in the cTKR group. The adjusted mean difference was -1·5 (95% CI -7·5 to 4·5; p=0·62,) favouring cTKR. 16 participants in each group had one serious adverse event. In this pragmatic trial, rTKR as delivered in routine practice was more costly than cTKR and did not provide a clinically meaningful patient benefit at 12 months after randomisation. The two groups had similar safety (ie, harms) profiles. UK National Institute for Health and Care Research Health Technology Assessment Programme.",
+     "date": "2026-08-20",
+     "pmid": "42624811",
+     "doi": "10.1016/S0140-6736(26)00986-4",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42624811/",
+     "title_zh": "机器人手臂辅助与常规全膝关节置换（ RACER-Knee ） ：一项实用、多中心、参与者蒙面和评估者蒙面、优越性、随机对照试验。",
+     "abstract_zh": "Robotic systems are being increasingly used to assist with total knee replacement (TKR). Whether robotic systems improve outcomes after TKR is uncertain. We aimed to ascertain the clinical efficacy and cost-effectiveness of the Mako robotic-arm system compared with conventional instruments for TKR. We conducted a participant-masked and assessor-masked pragmatic, superiority, randomised controlled trial at ten hospitals in Great Britain involving 33 surgeons. Patients with advanced knee osteoarthritis underwent TKR with conventional instruments (cTKR) or with the Mako robotic-arm-assisted system (rTKR). Key exclusion criteria were inflammatory arthropathy, previous fracture, or the need for complex implants. Participants were randomly assigned (1:1) through a remote computer system using minimisation by age, BMI, centre, surgeon, and primary knee compartment involved. Participants and ass",
+     "audio": "audio/2026-08-24/15.mp3"
+    },
+    {
+     "journal": "The Lancet",
+     "title": "Oropharyngeal ulcers in Yao syndrome with multisystem involvement.",
+     "abstract": "",
+     "date": "2026-08-20",
+     "pmid": "42624807",
+     "doi": "10.1016/S0140-6736(26)01243-2",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42624807/",
+     "title_zh": "姚氏综合征多系统累及口咽溃疡。",
+     "abstract_zh": "",
+     "audio": "audio/2026-08-24/16.mp3"
+    },
+    {
+     "journal": "Cell",
+     "title": "Gut microbiota generate dinitrosyl iron complexes with cardiometabolic benefits.",
+     "abstract": "Gut bacteria affect host physiology, but the underlying mechanisms are not completely understood. We identify a pathway whereby gut microbes convert inorganic nitrate and non-heme iron into mobile bioactive dinitrosyl iron complexes (DNICs) that are distributed systemically and affect host metabolism. Electron paramagnetic resonance detected DNICs in tissues of conventional but not germ-free mice. Mouse and human feces and E. coli generated DNICs from nitrate and iron citrate, whereas a nitrate-reductase-deficient mutant did not. Dietary supplementation with nitrate+iron citrate or synthetic DNICs increased tissue DNIC levels and ameliorated cardiometabolic dysfunction in Western diet-fed mice. Additionally, in HepG2 cells and human hepatocyte spheroids, DNIC reduced fatty acid-induced steatosis. DNIC bioactivity is mediated by the Fe(NO)",
+     "date": "2026-08-19",
+     "pmid": "42617596",
+     "doi": "10.1016/j.cell.2026.07.055",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42617596/",
+     "title_zh": "肠道菌群产生对心脏代谢有益的二硝基铁复合物。",
+     "abstract_zh": "肠道细菌影响宿主生理，但其潜在机制尚不完全清楚。我们确定了肠道微生物将无机硝酸盐和非血红素铁转化为可移动的生物活性二硝基铁复合物（dnic）的途径，这些复合物分布在全身并影响宿主的代谢。电子顺磁共振检测常规而非无菌小鼠组织中的dnic。小鼠和人类的粪便以及大肠杆菌都能从硝酸盐和柠檬酸铁中产生dnic，而缺乏硝酸盐还原酶的突变体则不能。在西方饮食喂养的小鼠中，添加硝酸盐+柠檬酸铁或合成DNIC可增加组织DNIC水平并改善心脏代谢功能障碍。此外，在HepG2细胞和人肝细胞球状体中，DNIC可减少脂肪酸诱导的脂肪变性。DNIC的生物活性由Fe（NO）介导。",
+     "audio": "audio/2026-08-24/17.mp3"
+    },
+    {
+     "journal": "Cell",
+     "title": "Synthetic transcription factors designed by domain recombination enhance CAR T cell antitumor function.",
+     "abstract": "Human protein-coding genes evolved via rearrangement of domains from ancestral genes. We develop a scalable, evolutionarily guided method to assemble novel genes from constituent domains within a protein family, termed DESynR (domain engineered via synthesis and recombination) genes. In primary human T cells, DESynR activator protein-1 (AP-1) transcription factors (TFs) significantly outperform natural AP-1 TFs across in vitro and in vivo antitumor assays. DESynR AP-1 TFs induce broad transcriptional and epigenetic reprogramming and establish non-natural T cell states that optimize features of exhaustion, effector and cytotoxic function, and persistence-sometimes co-opting gene modules from disparate cell types. Reprogramming is primarily driven by differential regulation of established AP-1-bound regulatory elements rather than unique binding. Finally, we screen DESynR erythroblast transformation-specific (ETS) and forkhead box (FOX) TFs to support generalizability across protein families. Overall, we demonstrate that reconfiguring existing protein domains may uncover non-evolved genes that program therapeutically relevant cell states.",
+     "date": "2026-08-19",
+     "pmid": "42617595",
+     "doi": "10.1016/j.cell.2026.07.054",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42617595/",
+     "title_zh": "通过结构域重组设计合成转录因子增强CAR - T细胞抗肿瘤功能。",
+     "abstract_zh": "人类蛋白质编码基因是通过祖先基因的结构域重排而进化的。我们开发了一种可扩展的、进化指导的方法，从蛋白质家族的组成域组装新基因，称为DESynR（通过合成和重组的结构域工程）基因。在原代人T细胞中，DESynR激活蛋白-1 （AP-1）转录因子（TFs）在体外和体内抗肿瘤试验中的表现明显优于天然AP-1 TFs。DESynR AP-1 TFs诱导广泛的转录和表观遗传重编程，并建立非自然T细胞状态，优化耗竭、效应和细胞毒性功能以及持久性的特征——有时从不同的细胞类型中选择基因模块。重编程主要是由已建立的ap -1结合调控元件的差异调控驱动的，而不是唯一的结合。最后，我们筛选DESynR红母细胞tran",
+     "audio": "audio/2026-08-24/18.mp3"
+    }
+   ]
+  ],
+  [
+   "流行病学",
+   [
+    {
+     "journal": "MMWR",
+     "title": "Monkeypox Virus Surveillance - United States, 2024-2025.",
+     "abstract": "Since the onset of a global outbreak of monkeypox virus (MPXV) infections in 2022, cases have declined substantially in the United States; however, ongoing low-level transmission has persisted. To assess trends in cases of MPXV infection in the United States during 2024-2025, investigators analyzed data from the One CDC Data Platform and the National Notifiable Diseases Surveillance System. In 2024, a total of 2,803 cases of MPXV infection were reported in the United States, including one travel-associated clade Ib case. In 2025, a total of 2,519 cases were reported, including 10 clade Ib cases. The number of reported cases of MPXV infection during September-October 2025 was double that during the same period in 2024, although cases returned to background levels by the end of December 2025. Demographic characteristics of patients with MPXV infections, including distributions by sex, race and ethnicity, sexual orientation, lesion location, and age, were similar to those reported in previous years. Among 860 patients with complete information, the odds of hospitalization among those who were unvaccinated were 9.73 times those who were fully vaccinated when controlling for age group and HIV status. Encouraging completion of the recommended 2-dose vaccination series for persons at risk for MPXV exposure, including travelers to specific countries with ongoing clade I or clade II transmission, could reduce the risk for severe illness and hospitalization. Continued routine surveillance remains important to limiting future spread, monitoring changes in viral evolution, and focusing vaccination efforts on affected areas.",
+     "date": "2026-08-20",
+     "pmid": "42623297",
+     "doi": "10.15585/mmwr.mm7422a3",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42623297/",
+     "title_zh": "猴痘病毒监测-美国， 2024-2025。",
+     "abstract_zh": "Since the onset of a global outbreak of monkeypox virus (MPXV) infections in 2022, cases have declined substantially in the United States; however, ongoing low-level transmission has persisted. To assess trends in cases of MPXV infection in the United States during 2024-2025, investigators analyzed data from the One CDC Data Platform and the National Notifiable Diseases Surveillance System. In 2024, a total of 2,803 cases of MPXV infection were reported in the United States, including one travel-associated clade Ib case. In 2025, a total of 2,519 cases were reported, including 10 clade Ib cases. The number of reported cases of MPXV infection during September-October 2025 was double that during the same period in 2024, although cases returned to background levels by the end of December 2025. Demographic characteristics of patients with MPXV infections, including distributions by sex, race",
+     "audio": "audio/2026-08-24/19.mp3"
+    },
+    {
+     "journal": "MMWR",
+     "title": "QuickStats: Age-Adjusted Alcohol-Induced Death Rates* Among Adults Aged ≥45 Years, by Sex - United States, 2014-2024.",
+     "abstract": "",
+     "date": "2026-08-20",
+     "pmid": "42623290",
+     "doi": "10.15585/mmwr.mm7532a3",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42623290/",
+     "title_zh": "QuickStats: 2014-2024年美国年龄≥45岁成人按性别调整的酒精致死亡率*",
+     "abstract_zh": "",
+     "audio": "audio/2026-08-24/20.mp3"
+    },
+    {
+     "journal": "MMWR",
+     "title": "Notes from the Field: Dengue Outbreak - Naoero, 2025.",
+     "abstract": "",
+     "date": "2026-08-20",
+     "pmid": "42623287",
+     "doi": "10.1371/journal.pbio.3002834",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42623287/",
+     "title_zh": "现场记录：登革热爆发——2025年7月。",
+     "abstract_zh": "",
+     "audio": "audio/2026-08-24/21.mp3"
+    },
+    {
+     "journal": "Lancet Planetary Health",
+     "title": "Planetary Health Research Digest.",
+     "abstract": "",
+     "date": "2026-08-20",
+     "pmid": "42624812",
+     "doi": "10.1016/j.lanplh.2026.101528",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42624812/",
+     "title_zh": "行星健康研究文摘。",
+     "abstract_zh": "",
+     "audio": "audio/2026-08-24/22.mp3"
+    },
+    {
+     "journal": "Lancet Planetary Health",
+     "title": "Exceeding human heat tolerance in a warming, ageing world: a global projection modelling study.",
+     "abstract": "In a warming world, understanding where, when, and to what extent human heat tolerance limits will be breached has become increasingly important. Previous projections applied heat limits for healthy young adults to all age groups, overlooking greater vulnerability in older ages. With global ageing, this oversight could seriously underestimate future heat risks. In this study, we aimed to examine the extent to which accounting for age-specific heat tolerance alters global projections of heat limit exceedances. We integrated experimentally derived heat limits for young (18-39 years), middle-aged (40-59 years), and older adults (≥60 years) with climate projections and age-stratified population projections to assess where and to what extent these limits could be breached across age groups under 1-4°C of global warming above preindustrial levels. The climate projections include bias-corrected projections of dry-bulb temperature and wet-bulb temperature from 14 Coupled Model Intercomparison Project Phase 6 climate models under the shared socioeconomic pathway 5-8·5 scenario. We also highlighted countries with high exposure risk and low adaptive capacity. More widespread and imminent breaches of heat limits were estimated among older adult populations than among other populations. Older adults faced more frequent and spatially extensive exceedances under the 1·5°C global warming scenario relative to the preindustrial period than young adults did under 4°C. Using age-specific thresholds more than doubled the global population having 180 h or more of exceedance annually as compared with previous estimates. Older adults in south Asia and the Persian Gulf could face sustained, day-and-night exposure for three consecutive months at 3°C or more warming. We also identified 13 countries under 3°C global warming above the preindustrial period where poverty rates exceed 50% and either at least 10 million older adults or at least 80% of the older adult population experiences 180 h or more of heat limit exceedance annually. India, Pakistan, Bangladesh, Myanmar, and Niger exceed both the absolute (10 million older adults) and proportional (80% of older adults) exposure thresholds. Our results suggest accounting for age stratified vulnerability, intolerable heat will be experienced at much larger scales and for longer durations, affecting far more people than previously estimated. By identifying who and where people are exposed, our findings can inform targeted heat action plans and guide resource allocation and response planning. US National Institutes of Health; US National Science Foundation; US National Aeronautics and Space Administration; Yale Institute for Biospheric Studies; The Rockefeller Foundation.",
+     "date": "2027-06-23",
+     "pmid": "42607702",
+     "doi": "10.1016/j.lanplh.2026.101494",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42607702/",
+     "title_zh": "在一个变暖、老龄化的世界中超越人类的耐热性：一项全球投影模型研究。",
+     "abstract_zh": "在一个不断变暖的世界里，了解人类耐热极限将在何时、何地以及在多大程度上被突破变得越来越重要。以前的预测将健康年轻人的热量限制适用于所有年龄组，忽视了老年人更大的脆弱性。随着全球人口老龄化，这种疏忽可能会严重低估未来的高温风险。在这项研究中，我们的目的是研究年龄特异性耐热性在多大程度上改变了热极限超出的全球预测。我们将实验得出的年轻人（18-39岁）、中年人（40-59岁）和老年人（≥60岁）的热量限制与气候预测和年龄分层人口预测相结合，以评估在高于工业化前水平的1-4°C全球变暖下，这些限制可能在何处以及在多大程度上被打破。气候预测包括偏差校正",
+     "audio": "audio/2026-08-24/23.mp3"
+    },
+    {
+     "journal": "Lancet Planetary Health",
+     "title": "Ecological-collective-flourishing (e-co-flourishing): a framework to guide innovation and research.",
+     "abstract": "Converging ecological and social crises have exposed the limits of prevailing models of human progress, highlighting the need for more inclusive and interdisciplinary approaches to advancing wellbeing and flourishing across human and non-human life. In this Personal View, we propose an ecological-collective-flourishing (e-co-flourishing) approach, whereby one's own human flourishing is pursued along with that of natural ecosystems and their collective and individual constituents. We offer a heuristic translational framework that includes a methodological approach; guiding principles; and proposed programme theory in terms of hypothesised outcomes, pathways of change (mechanisms), key contextual factors (moderators), and intervention characteristics. This framework aims to bridge theory to real-world applications of e-co-flourishing interventions that are effective, scalable, and promote change through targeted mechanisms of action. We present Mindfulness-Based Cognitive Therapy-Balanced Living for Us and the Earth's Ocean (MBCT-BLUE) as an illustrative application of this framework to outline how the framework can be used to identify, refine, develop, and evaluate interventions with e-co-flourishing potential. We also provide definitions of key conceptual terms and proxy measurements. Practitioners, researchers, and decision makers working at the interface of mental health, public health, sustainability, and planetary health can use this framework and its resources to guide emerging research and innovation.",
+     "date": "2027-06-22",
+     "pmid": "42526478",
+     "doi": "10.1016/j.lanplh.2026.101490",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42526478/",
+     "title_zh": "生态集体繁荣（e-co-flourishing）：一个指导创新和研究的框架。",
+     "abstract_zh": "Converging ecological and social crises have exposed the limits of prevailing models of human progress, highlighting the need for more inclusive and interdisciplinary approaches to advancing wellbeing and flourishing across human and non-human life. In this Personal View, we propose an ecological-collective-flourishing (e-co-flourishing) approach, whereby one's own human flourishing is pursued along with that of natural ecosystems and their collective and individual constituents. We offer a heuristic translational framework that includes a methodological approach; guiding principles; and proposed programme theory in terms of hypothesised outcomes, pathways of change (mechanisms), key contextual factors (moderators), and intervention characteristics. This framework aims to bridge theory to real-world applications of e-co-flourishing interventions that are effective, scalable, and promote ",
+     "audio": "audio/2026-08-24/24.mp3"
+    }
+   ]
+  ]
+ ]
+}

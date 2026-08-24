@@ -1,0 +1,15 @@
+{
+  "name": "顶刊快讯 · 每日主流期刊中文快讯",
+  "short_name": "顶刊快讯",
+  "description": "每日自动生成的主流顶刊中文快讯：综合 / AI / 医学 / 流行病学，支持语音朗读",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
