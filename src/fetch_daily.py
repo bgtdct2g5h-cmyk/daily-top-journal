@@ -251,11 +251,11 @@ def render_page(date_str, groups, archives, is_index=True):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>顶刊快讯 · {date_str}</title>
-<link rel="manifest" href="manifest.webmanifest">
-<link rel="icon" href="icon-192.png">
-<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="manifest" href="{prefix}manifest.webmanifest">
+<link rel="icon" href="{prefix}icon-192.png">
+<link rel="apple-touch-icon" href="{prefix}icon-192.png">
 <meta name="theme-color" content="#0f172a">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="{prefix}styles.css">
 </head>
 <body>
 <header>
@@ -270,7 +270,7 @@ def render_page(date_str, groups, archives, is_index=True):
 <p>免费全文优先级：arXiv → PMC → 期刊 Open Access → 作者预印本。</p>
 <p>数据来源：PubMed / arXiv / 期刊公开页（免费）｜语音：edge-tts</p>
 </footer>
-<script src="app.js"></script>
+<script src="{prefix}app.js"></script>
 </body>
 </html>"""
     return page

@@ -1,6 +1,6 @@
 {
  "date": "2026-08-24",
- "generated_at": "2026-08-24T21:07:35+08:00",
+ "generated_at": "2026-08-24T21:26:41+08:00",
  "groups": [
   [
    "综合",
@@ -49,8 +49,8 @@
      "pmid": "42618794",
      "doi": "10.1086/155143",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42618794/",
-     "title_zh": "发现一颗对射手座A旋转敏感的恒星。",
-     "abstract_zh": "射手座A * （ Sgr A * ）位于银河系中心，是最近的大质量黑洞",
+     "title_zh": "Discovery of a star sensitive to the spin of Sagittarius A.",
+     "abstract_zh": "Residing in the centre of the Milky Way, Sagittarius A* (Sgr A*) is the closest massive black hole",
      "audio": "audio/2026-08-24/4.mp3"
     },
     {
@@ -61,8 +61,8 @@
      "pmid": "42623482",
      "doi": "10.1126/science.aek1809",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42623482/",
-     "title_zh": "触摸和疼痛塑造了大脑成像所看到的内容。",
-     "abstract_zh": "感官输入会影响不同的血管网络，影响脑部扫描的精度。",
+     "title_zh": "Touch and pain shape what brain imaging sees.",
+     "abstract_zh": "Sensory inputs influence different blood vessel networks, affecting the precision of brain scans.",
      "audio": "audio/2026-08-24/5.mp3"
     },
     {
@@ -73,7 +73,7 @@
      "pmid": "42623481",
      "doi": "10.1126/science.aek1460",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42623481/",
-     "title_zh": "在可再生能源政策中超越碳排放。",
+     "title_zh": "在可再生能源政策中超越碳。",
      "abstract_zh": "中国政策驱动的太阳能扩张表明，为什么气候政策评估应该考虑生物多样性的影响。",
      "audio": "audio/2026-08-24/6.mp3"
     }
@@ -90,7 +90,7 @@
      "url": "https://arxiv.org/abs/2608.21359v1",
      "arxiv_id": "2608.21359v1",
      "title_zh": "牛顿法的原始加速度",
-     "abstract_zh": "提出了一种新的Lipschitz连续Hessian凸函数最小化的直接加速牛顿法。该算法只使用原始变量，每次迭代只执行一次线性求解。通过简单的预定参数选择，实现了函数残差的全局收敛速率为$O(1/k^3)$。据我们所知，这是该问题类实现此速率的第一个二阶方法，而每次迭代仅依赖一个线性系统解（不解决辅助非线性正则化子问题，如三次正则化，执行非线性参数搜索，或使用对偶超梯度修正）。我们的方法可以在保持快速全局速率的同时，使用非精确线性系统解算器以无hessian方式实现。我们通过布雷格曼进一步将我们的构造扩展到任意几何",
+     "abstract_zh": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of $O(1/k^3)$ in terms of the functional residual. To the best of our knowledge, this is the first second-order method for this problem class attaining this rate while relying solely on one linear system solve per iteration (without solving auxiliary nonlinear regularized subproblems, such as cubic regularization, performing nonlinear parameter searches, or using dual extragradient corrections). Our method can be implemented in a Hessian-free way, using an inexact linear system solver, while preserving the fast global rate. We further extend our construction to arbitrary geometry through Bregman",
      "audio": "audio/2026-08-24/7.mp3"
     },
     {
@@ -100,8 +100,8 @@
      "date": "2026-08-21",
      "url": "https://arxiv.org/abs/2608.21357v1",
      "arxiv_id": "2608.21357v1",
-     "title_zh": "小瓶：生命科学中人工制品视觉解释的基准",
-     "abstract_zh": "在专业的生命科学工作流程中，科学家通常会解释视觉工件（凝胶印迹、显微镜图像、质粒图、流式细胞仪图、分子结构等），以告知研究决策。我们介绍了VIALS，这是一个具有161个这样的解释任务的视觉问答基准，涵盖了生物技术行业中整个实验工作流程中检查的工件类型（而不是出版物和教科书中的抛光数字）。虽然前沿视觉语言模型现在可以流利地描述自然图像，但我们发现它们无法准确地解释这些科学图像，这反映了领域知识和特定领域视觉推理能力的局限性。相比之下，具有相关领域专业知识的科学家发现这些视觉解释任务很简单。不能类似地解释这些图像的人工智能将受到限制",
+     "title_zh": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+     "abstract_zh": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We introduce VIALS, a visual question-answering benchmark with 161 such interpretation tasks, spanning the types of artifacts examined throughout experimental workflows in the biotech industry (rather than polished figures from publications and textbooks). While frontier vision-language models can now fluently describe natural images, we find that they are unable to accurately interpret these scientific images, reflecting limitations in domain knowledge and domain-specific visual reasoning capabilities. In contrast, scientists with relevant domain expertise find these visual interpretation tasks straightforward. AI that cannot similarly interpret such images will have limited ut",
      "audio": "audio/2026-08-24/8.mp3"
     },
     {
@@ -111,8 +111,8 @@
      "date": "2026-08-21",
      "url": "https://arxiv.org/abs/2608.21356v1",
      "arxiv_id": "2608.21356v1",
-     "title_zh": "具有权威的人工智能，从应用到硅",
-     "abstract_zh": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only economical but essential to productivity --- it is the incorruptible referee that lets one person safely direct autonomous machine work at scale. In five weeks, one researcher on consumer AI subscriptions directed a small fleet of AI agents from application code, through a verified compiler and executive, to a RISC-V processor taped out on a community silicon shuttle; no proof passed through human review, and no RTL was written by a human. The working discipline --- the Salt method --- rests on a proof kernel no hallucinated proof can pass: mathematical claims travel between agents as kernel-checked artifacts, and human attention is reserved for statements, designs, and r",
+     "title_zh": "AI with Authority, from Application to Silicon",
+     "abstract_zh": "60年来，机器验证一直是主要的开销，只有特殊的工件才能负担得起。在这里，我们报告生成式人工智能颠倒了这种关系：在人工智能的速度下，机器验证不仅经济而且对生产力至关重要——它是一个廉洁的裁判，可以让一个人安全地指导自动机器大规模工作。在五周内，一位研究消费者人工智能订阅的研究人员指导了一小批人工智能代理，从应用程序代码，经过经过验证的编译器和执行器，到贴在社区硅航天飞机上的RISC-V处理器；没有任何证据是通过人工审核的，也没有任何RTL是由人类撰写的。工作规程——Salt方法——建立在一个幻觉证明无法通过的证明核上：数学声明作为核检查的工件在代理之间传递，而人类的注意力则保留在语句、设计和r上",
      "audio": "audio/2026-08-24/9.mp3"
     },
     {
@@ -145,7 +145,7 @@
      "url": "https://arxiv.org/abs/2608.21349v1",
      "arxiv_id": "2608.21349v1",
      "title_zh": "PerturbRx：学习治疗条件下的潜在转变，用于预测患者药物反应",
-     "abstract_zh": "缺乏数据和肿瘤异质性限制了患者水平的癌症治疗反应预测。现有的方法通过预处理分子谱和药物表征来预测反应，而没有明确地模拟治疗下预期的分子变化。我们提出了PerturbRx，这是一个治疗条件表征学习框架，可以学习干预诱导的潜在转变，并将其用作患者-药物反应特征。PerturbRx从环境匹配但细胞不配对的对照和处理的单细胞群体中训练药物和剂量条件转换预测器，然后冻结并将预测器转移到预处理患者资料中，而无需治疗后测量。这种转变与患者和药物表征相结合，以预测反应。在TCGA和患者来源的异种移植物基准中，PerturbRx达到了最强的聚合率",
+     "abstract_zh": "Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, without explicitly modeling the molecular changes expected under treatment. We propose PerturbRx, a treatment-conditioned representation learning framework that learns intervention-induced latent transitions and uses them as patient-drug response features. PerturbRx trains a drug- and dose-conditioned transition predictor from context-matched but cell-unpaired control and treated single-cell populations, then freezes and transfers the predictor to pretreatment patient profiles without requiring post-treatment measurements. The transition is combined with patient and drug representations to predict response. Across TCGA and patient-derived xenograft benchmarks, PerturbRx achieves the strongest aggr",
      "audio": "audio/2026-08-24/12.mp3"
     }
    ]
@@ -173,7 +173,7 @@
      "pmid": "42628553",
      "doi": "10.1016/S0140-6736(26)01242-0",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42628553/",
-     "title_zh": "扩增调节性T细胞以治疗特应性皮炎。",
+     "title_zh": "扩大调节性T细胞治疗特应性皮炎。",
      "abstract_zh": "",
      "audio": "audio/2026-08-24/14.mp3"
     },
@@ -185,7 +185,7 @@
      "pmid": "42624811",
      "doi": "10.1016/S0140-6736(26)00986-4",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42624811/",
-     "title_zh": "机器人手臂辅助与常规全膝关节置换（ RACER-Knee ） ：一项实用、多中心、参与者蒙面和评估者蒙面、优越性、随机对照试验。",
+     "title_zh": "机械臂辅助与传统全膝关节置换术（RACER-Knee）：一项实用的、多中心的、参与者屏蔽和评估屏蔽的、优势的、随机对照试验。",
      "abstract_zh": "Robotic systems are being increasingly used to assist with total knee replacement (TKR). Whether robotic systems improve outcomes after TKR is uncertain. We aimed to ascertain the clinical efficacy and cost-effectiveness of the Mako robotic-arm system compared with conventional instruments for TKR. We conducted a participant-masked and assessor-masked pragmatic, superiority, randomised controlled trial at ten hospitals in Great Britain involving 33 surgeons. Patients with advanced knee osteoarthritis underwent TKR with conventional instruments (cTKR) or with the Mako robotic-arm-assisted system (rTKR). Key exclusion criteria were inflammatory arthropathy, previous fracture, or the need for complex implants. Participants were randomly assigned (1:1) through a remote computer system using minimisation by age, BMI, centre, surgeon, and primary knee compartment involved. Participants and ass",
      "audio": "audio/2026-08-24/15.mp3"
     },
@@ -197,7 +197,7 @@
      "pmid": "42624807",
      "doi": "10.1016/S0140-6736(26)01243-2",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42624807/",
-     "title_zh": "姚氏综合征多系统累及口咽溃疡。",
+     "title_zh": "Oropharyngeal ulcers in Yao syndrome with multisystem involvement.",
      "abstract_zh": "",
      "audio": "audio/2026-08-24/16.mp3"
     },
@@ -209,7 +209,7 @@
      "pmid": "42617596",
      "doi": "10.1016/j.cell.2026.07.055",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42617596/",
-     "title_zh": "肠道菌群产生对心脏代谢有益的二硝基铁复合物。",
+     "title_zh": "Gut microbiota generate dinitrosyl iron complexes with cardiometabolic benefits.",
      "abstract_zh": "肠道细菌影响宿主生理，但其潜在机制尚不完全清楚。我们确定了肠道微生物将无机硝酸盐和非血红素铁转化为可移动的生物活性二硝基铁复合物（dnic）的途径，这些复合物分布在全身并影响宿主的代谢。电子顺磁共振检测常规而非无菌小鼠组织中的dnic。小鼠和人类的粪便以及大肠杆菌都能从硝酸盐和柠檬酸铁中产生dnic，而缺乏硝酸盐还原酶的突变体则不能。在西方饮食喂养的小鼠中，添加硝酸盐+柠檬酸铁或合成DNIC可增加组织DNIC水平并改善心脏代谢功能障碍。此外，在HepG2细胞和人肝细胞球状体中，DNIC可减少脂肪酸诱导的脂肪变性。DNIC的生物活性由Fe（NO）介导。",
      "audio": "audio/2026-08-24/17.mp3"
     },
@@ -238,8 +238,8 @@
      "pmid": "42623297",
      "doi": "10.15585/mmwr.mm7422a3",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42623297/",
-     "title_zh": "猴痘病毒监测-美国， 2024-2025。",
-     "abstract_zh": "Since the onset of a global outbreak of monkeypox virus (MPXV) infections in 2022, cases have declined substantially in the United States; however, ongoing low-level transmission has persisted. To assess trends in cases of MPXV infection in the United States during 2024-2025, investigators analyzed data from the One CDC Data Platform and the National Notifiable Diseases Surveillance System. In 2024, a total of 2,803 cases of MPXV infection were reported in the United States, including one travel-associated clade Ib case. In 2025, a total of 2,519 cases were reported, including 10 clade Ib cases. The number of reported cases of MPXV infection during September-October 2025 was double that during the same period in 2024, although cases returned to background levels by the end of December 2025. Demographic characteristics of patients with MPXV infections, including distributions by sex, race",
+     "title_zh": "猴痘病毒监测-美国，2024-2025。",
+     "abstract_zh": "自2022年猴痘病毒（MPXV）感染全球暴发以来，美国的病例已大幅下降；然而，持续的低水平传播仍在继续。为了评估2024-2025年美国MPXV感染病例的趋势，研究人员分析了来自CDC数据平台和国家法定疾病监测系统的数据。2024年，美国共报告了2803例MPXV感染病例，其中包括1例与旅行相关的进化支Ib病例。2025年共报告2519例，其中10例为Ib支。2025年9月至10月期间报告的MPXV感染病例数是2024年同期的两倍，尽管到2025年12月底病例已恢复到背景水平。MPXV感染患者的人口统计学特征，包括性别、种族分布",
      "audio": "audio/2026-08-24/19.mp3"
     },
     {
@@ -262,7 +262,7 @@
      "pmid": "42623287",
      "doi": "10.1371/journal.pbio.3002834",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42623287/",
-     "title_zh": "现场记录：登革热爆发——2025年7月。",
+     "title_zh": "Notes from the Field: Dengue Outbreak - Naoero, 2025.",
      "abstract_zh": "",
      "audio": "audio/2026-08-24/21.mp3"
     },
@@ -274,7 +274,7 @@
      "pmid": "42624812",
      "doi": "10.1016/j.lanplh.2026.101528",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42624812/",
-     "title_zh": "行星健康研究文摘。",
+     "title_zh": "Planetary Health Research Digest.",
      "abstract_zh": "",
      "audio": "audio/2026-08-24/22.mp3"
     },
@@ -286,7 +286,7 @@
      "pmid": "42607702",
      "doi": "10.1016/j.lanplh.2026.101494",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42607702/",
-     "title_zh": "在一个变暖、老龄化的世界中超越人类的耐热性：一项全球投影模型研究。",
+     "title_zh": "Exceeding human heat tolerance in a warming, ageing world: a global projection modelling study.",
      "abstract_zh": "在一个不断变暖的世界里，了解人类耐热极限将在何时、何地以及在多大程度上被突破变得越来越重要。以前的预测将健康年轻人的热量限制适用于所有年龄组，忽视了老年人更大的脆弱性。随着全球人口老龄化，这种疏忽可能会严重低估未来的高温风险。在这项研究中，我们的目的是研究年龄特异性耐热性在多大程度上改变了热极限超出的全球预测。我们将实验得出的年轻人（18-39岁）、中年人（40-59岁）和老年人（≥60岁）的热量限制与气候预测和年龄分层人口预测相结合，以评估在高于工业化前水平的1-4°C全球变暖下，这些限制可能在何处以及在多大程度上被打破。气候预测包括偏差校正",
      "audio": "audio/2026-08-24/23.mp3"
     },
@@ -299,7 +299,7 @@
      "doi": "10.1016/j.lanplh.2026.101490",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42526478/",
      "title_zh": "生态集体繁荣（e-co-flourishing）：一个指导创新和研究的框架。",
-     "abstract_zh": "Converging ecological and social crises have exposed the limits of prevailing models of human progress, highlighting the need for more inclusive and interdisciplinary approaches to advancing wellbeing and flourishing across human and non-human life. In this Personal View, we propose an ecological-collective-flourishing (e-co-flourishing) approach, whereby one's own human flourishing is pursued along with that of natural ecosystems and their collective and individual constituents. We offer a heuristic translational framework that includes a methodological approach; guiding principles; and proposed programme theory in terms of hypothesised outcomes, pathways of change (mechanisms), key contextual factors (moderators), and intervention characteristics. This framework aims to bridge theory to real-world applications of e-co-flourishing interventions that are effective, scalable, and promote ",
+     "abstract_zh": "不断融合的生态和社会危机暴露了人类进步的主流模式的局限性，凸显出需要采取更具包容性和跨学科的方法来促进人类和非人类生活的福祉和繁荣。在这一个人观点中，我们提出了一种生态集体繁荣（e-co-flourishing）的方法，即人类自身的繁荣与自然生态系统及其集体和个人组成部分的繁荣一起追求。我们提供了一个启发式翻译框架，包括方法论方法；指导原则;并在假设结果、变化途径（机制）、关键背景因素（调节因子）和干预特征方面提出了方案理论。该框架旨在将理论与有效、可扩展和促进的电子共同繁荣干预措施的实际应用联系起来",
      "audio": "audio/2026-08-24/24.mp3"
     }
    ]
