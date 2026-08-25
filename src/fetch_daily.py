@@ -98,6 +98,8 @@ def fetch_pubmed(src, days=6, keep_days=5):
         if len(pub_date) == 10 and pub_date < cutoff:
             continue
         abstract = " ".join(t.text or "" for t in art.findall(".//AbstractText"))
+        if len(abstract.strip()) < 40:
+            continue
         pmid = art.findtext(".//PMID", "")
         doi = ""
         for aid in art.findall(".//ArticleId"):
@@ -205,7 +207,7 @@ def tts(text, out_path):
 
 # ---------------------------------------------------------------- HTML
 def esc(s):
-    return (s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
+    return (s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace("\"", "&quot;"))
 
 def render_item(idx, it, audio_path, date_str, prefix=""):
     summary = esc(it["title_zh"])
@@ -217,7 +219,8 @@ def render_item(idx, it, audio_path, date_str, prefix=""):
     audio = ""
     if audio_path and audio_path.exists():
         audio_url = f"{prefix}audio/{date_str}/{audio_path.name}"
-        audio = (f"<audio controls preload=\"none\" src=\"{audio_url}\"></audio>"
+        title_attr = f"【{esc(it['journal'])}】{summary}"
+        audio = (f"<audio controls playsinline preload=\"none\" src=\"{audio_url}\" data-title=\"{title_attr}\"></audio>"
                  f"<button class=\"play\" data-audio=\"{audio_url}\">▶ 朗读本条</button>")
     else:
         audio = "<p class=\"noaudio\">（今日语音生成中，稍后可用）</p>"

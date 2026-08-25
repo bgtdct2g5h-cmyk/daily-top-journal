@@ -1,58 +1,10 @@
 {
- "date": "2026-08-24",
- "generated_at": "2026-08-24T21:26:41+08:00",
+ "date": "2026-08-25",
+ "generated_at": "2026-08-25T19:34:23+08:00",
  "groups": [
   [
    "综合",
    [
-    {
-     "journal": "Nature",
-     "title": "Wake-activated neuronal populations that regulate sleep drive.",
-     "abstract": "Prolonged wakefulness increases sleep drive and is normally compensated for by increased sleep",
-     "date": "2026-08-19",
-     "pmid": "42618797",
-     "doi": "10.1126/science.adk0997",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42618797/",
-     "title_zh": "调节睡眠驱动的觉醒激活神经元群。",
-     "abstract_zh": "长时间的清醒会增加睡眠动力，通常会通过增加睡眠来补偿",
-     "audio": "audio/2026-08-24/1.mp3"
-    },
-    {
-     "journal": "Nature",
-     "title": "Observation of conformal field theory spectra in a quantum simulator.",
-     "abstract": "Conformal field theories (CFTs) feature prominently in high-energy physics",
-     "date": "2026-08-19",
-     "pmid": "42618796",
-     "doi": "10.1088/1742-5468/2016/06/064003",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42618796/",
-     "title_zh": "量子模拟器中共形场论谱的观测。",
-     "abstract_zh": "共形场理论（CFTs）在高能物理中占有重要地位",
-     "audio": "audio/2026-08-24/2.mp3"
-    },
-    {
-     "journal": "Nature",
-     "title": "Human brain organoids record the passage of time over multiple years.",
-     "abstract": "The human brain develops and matures over an exceptionally prolonged period of time that spans nearly two decades of life. Processes that govern species-specific aspects of human postnatal brain development are difficult to study in animal models",
-     "date": "2026-08-19",
-     "pmid": "42618795",
-     "doi": "10.1089/omi.2011.0118",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42618795/",
-     "title_zh": "人类大脑类器官记录了多年的时间流逝。",
-     "abstract_zh": "人类大脑的发育和成熟经历了一段异常漫长的时间，跨度将近20年。控制人类出生后大脑发育的物种特异性方面的过程很难在动物模型中研究",
-     "audio": "audio/2026-08-24/3.mp3"
-    },
-    {
-     "journal": "Nature",
-     "title": "Discovery of a star sensitive to the spin of Sagittarius A.",
-     "abstract": "Residing in the centre of the Milky Way, Sagittarius A* (Sgr A*) is the closest massive black hole",
-     "date": "2026-08-19",
-     "pmid": "42618794",
-     "doi": "10.1086/155143",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42618794/",
-     "title_zh": "Discovery of a star sensitive to the spin of Sagittarius A.",
-     "abstract_zh": "Residing in the centre of the Milky Way, Sagittarius A* (Sgr A*) is the closest massive black hole",
-     "audio": "audio/2026-08-24/4.mp3"
-    },
     {
      "journal": "Science",
      "title": "Touch and pain shape what brain imaging sees.",
@@ -61,9 +13,9 @@
      "pmid": "42623482",
      "doi": "10.1126/science.aek1809",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42623482/",
-     "title_zh": "Touch and pain shape what brain imaging sees.",
-     "abstract_zh": "Sensory inputs influence different blood vessel networks, affecting the precision of brain scans.",
-     "audio": "audio/2026-08-24/5.mp3"
+     "title_zh": "触摸和疼痛塑造了脑成像所看到的东西。",
+     "abstract_zh": "感觉输入影响不同的血管网络，影响脑部扫描的精度。",
+     "audio": "audio/2026-08-25/1.mp3"
     },
     {
      "journal": "Science",
@@ -75,7 +27,55 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42623481/",
      "title_zh": "在可再生能源政策中超越碳。",
      "abstract_zh": "中国政策驱动的太阳能扩张表明，为什么气候政策评估应该考虑生物多样性的影响。",
-     "audio": "audio/2026-08-24/6.mp3"
+     "audio": "audio/2026-08-25/2.mp3"
+    },
+    {
+     "journal": "Science",
+     "title": "Tracing the origins of de novo coronary collateral formation in cardiac repair.",
+     "abstract": "Coronary collateral arteries have been proposed to form de novo through artery reassembly, a process in which arterial endothelial cells (ECs) migrate away from preexisting arteries and reassemble into new arteries. Using genetic tools that trace arterial ECs, we found that their contribution to collaterals is modest. Dual genetic lineage tracing revealed that capillary ECs, rather than arterial ECs, serve as the major building blocks for de novo collaterals. The capillary-to-collateral conversion is functionally crucial for cardiac repair. In addition, transient",
+     "date": "2026-08-20",
+     "pmid": "42623479",
+     "doi": "10.1126/science.ady3027",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42623479/",
+     "title_zh": "心脏修复中冠状动脉旁支形成的起源。",
+     "abstract_zh": "冠状动脉侧枝被认为是通过动脉重组重新形成的，在这个过程中，动脉内皮细胞（ECs）从先前存在的动脉迁移并重新组装成新的动脉。使用追踪动脉内皮细胞的遗传工具，我们发现它们对抵押品的贡献是适度的。双遗传谱系追踪显示，毛细血管内皮细胞，而不是动脉内皮细胞，是新生侧枝的主要组成部分。毛细血管到侧枝的转换在心脏修复中起着至关重要的作用。此外，瞬态",
+     "audio": "audio/2026-08-25/3.mp3"
+    },
+    {
+     "journal": "Science",
+     "title": "Redirecting wet-interfacial redox pathways for efficient inverted perovskite solar cells.",
+     "abstract": "Carbazole-based phosphonic acid self-assembled monolayers (SAMs) are essential for high-efficiency p-i-n perovskite solar cells. However, during processing, these SAMs inevitably contact perovskite inks, where their acidity triggers a dimethyl sulfoxide (DMSO)-mediated iodide redox reaction that imprints device performance, representing a universal bottleneck for inverted devices. We resolve this SAM-triggered redox mechanism and introduce chemistry-matched hydrazide additives to mitigate the degradation. These additives abrogate DMSO activation and redirect unwanted by-products toward benign hydrazide-formamidinium adducts. Consequently, we achieved power conversion efficiencies (PCEs) of 27.7% (certified 27.4%) in small-area (0.06 cm",
+     "date": "2026-08-20",
+     "pmid": "42623478",
+     "doi": "10.1126/science.aeg8415",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42623478/",
+     "title_zh": "重定向高效倒置钙钛矿太阳能电池的湿界面氧化还原途径。",
+     "abstract_zh": "Carbazole-based phosphonic acid self-assembled monolayers (SAMs) are essential for high-efficiency p-i-n perovskite solar cells. However, during processing, these SAMs inevitably contact perovskite inks, where their acidity triggers a dimethyl sulfoxide (DMSO)-mediated iodide redox reaction that imprints device performance, representing a universal bottleneck for inverted devices. We resolve this SAM-triggered redox mechanism and introduce chemistry-matched hydrazide additives to mitigate the degradation. These additives abrogate DMSO activation and redirect unwanted by-products toward benign hydrazide-formamidinium adducts. Consequently, we achieved power conversion efficiencies (PCEs) of 27.7% (certified 27.4%) in small-area (0.06 cm",
+     "audio": "audio/2026-08-25/4.mp3"
+    },
+    {
+     "journal": "PNAS",
+     "title": "Optically induced Faraday-Goldstone waves.",
+     "abstract": "Faraday waves, typically observed in driven fluids, result from the confluence of nonlinearity and parametric amplification. Here we show that optical pulses can generate analogous phenomena that persist much longer than the pump time-scales in ordered quantum solids. We present a theory of ultrafast light-matter interactions within a symmetry-broken state; dynamical nonlinear coupling between the Higgs (amplitude) and the Goldstone (phase) modes drives an emergent phason texture that oscillates in space and in time: Faraday-Goldstone waves. Calculated signatures of this spatiotemporal order compare well with measurements on K",
+     "date": "2026-08-24",
+     "pmid": "42636383",
+     "doi": "10.1073/pnas.2535297123",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42636383/",
+     "title_zh": "光诱导法拉第-金石波。",
+     "abstract_zh": "法拉第波通常在驱动流体中观察到，是非线性和参数放大共同作用的结果。在这里，我们表明光脉冲可以产生类似的现象，持续时间比有序量子固体中的泵浦时间尺度长得多。我们提出了对称破缺状态下的超快光-物质相互作用理论；希格斯模式（振幅）和戈德斯通模式（相位）之间的动态非线性耦合驱动了一种在空间和时间上振荡的涌现相织构：法拉第-戈德斯通波。这一时空顺序的计算特征与K上的测量结果比较好",
+     "audio": "audio/2026-08-25/5.mp3"
+    },
+    {
+     "journal": "PNAS",
+     "title": "The moisture dynamics in arid Central Asia over the last 47,000 years: Insights from the speleothem record.",
+     "abstract": "Water resources are crucial for the survival and development of human societies in arid Central Asia. However, our understanding of regional hydroclimate variability and moisture dynamics remains limited. Here, we present a precisely dated, high-resolution speleothem δ",
+     "date": "2026-08-24",
+     "pmid": "42636381",
+     "doi": "10.1073/pnas.2537342123",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42636381/",
+     "title_zh": "过去47000年来中亚干旱地区的水分动态：来自洞穴记录的见解。",
+     "abstract_zh": "在干旱的中亚地区，水资源对人类社会的生存和发展至关重要。然而，我们对区域水文气候变率和水分动力学的认识仍然有限。在这里，我们提出了一个精确年代，高分辨率的洞穴化石δ",
+     "audio": "audio/2026-08-25/6.mp3"
     }
    ]
   ],
@@ -84,69 +84,69 @@
    [
     {
      "journal": "arXiv cs.AI",
-     "title": "Primal Acceleration of Newton's Method",
-     "abstract": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of $O(1/k^3)$ in terms of the functional residual. To the best of our knowledge, this is the first second-order method for this problem class attaining this rate while relying solely on one linear system solve per iteration (without solving auxiliary nonlinear regularized subproblems, such as cubic regularization, performing nonlinear parameter searches, or using dual extragradient corrections). Our method can be implemented in a Hessian-free way, using an inexact linear system solver, while preserving the fast global rate. We further extend our construction to arbitrary geometry through Bregman divergence, and to composite optimization problems.",
-     "date": "2026-08-21",
-     "url": "https://arxiv.org/abs/2608.21359v1",
-     "arxiv_id": "2608.21359v1",
-     "title_zh": "牛顿法的原始加速度",
-     "abstract_zh": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of $O(1/k^3)$ in terms of the functional residual. To the best of our knowledge, this is the first second-order method for this problem class attaining this rate while relying solely on one linear system solve per iteration (without solving auxiliary nonlinear regularized subproblems, such as cubic regularization, performing nonlinear parameter searches, or using dual extragradient corrections). Our method can be implemented in a Hessian-free way, using an inexact linear system solver, while preserving the fast global rate. We further extend our construction to arbitrary geometry through Bregman",
-     "audio": "audio/2026-08-24/7.mp3"
+     "title": "How to Train a Critic Stably and Efficiently",
+     "abstract": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. We study this instability and develop \\textbf{Best-Practice Critic Optimization (BPCO)}, a recipe that combines DPPO, value predictions bounded to the reward range, Monte Carlo value targets, unnormalized policy advantages, and length-adaptive generalized advantage estimation. Because the critic is used only during training, BPCO can also condition it on reward-defining information, such as a reference answer or grading rubric, that is hidden from the policy. Controlled experiments isolate the effect of each design choice. Across mathematical reasoning tasks with models ranging from 1.5B parameters to 30B-A3B mixtures of experts, BPCO improves a strong critic-based baseline consistently, and matches or exceeds a group-based baseline while sampling one response per prompt. The same recipe also improves learning with rubric-based rewards. These results show that a carefully designed critic provides a reliable alternative to group-relative advantage estimation. Code is available at https://github.com/QPHutu/golden_critic",
+     "date": "2026-08-24",
+     "url": "https://arxiv.org/abs/2608.23566v1",
+     "arxiv_id": "2608.23566v1",
+     "title_zh": "如何稳定高效地培养批评家",
+     "abstract_zh": "基于群体的强化学习方法，如用于大型语言模型的GRPO，通过对每个提示进行多个响应采样来避免训练评论家。一个可靠的评论家可以从一个反应中估计出令牌级别的优势，但是标准的基于评论家的训练方法通常是不稳定的。我们研究了这种不稳定性，并开发了最佳实践评论家优化（BPCO），这是一种结合DPPO、奖励范围内的价值预测、蒙特卡罗价值目标、非标准化政策优势和长度自适应广义优势估计的配方。由于评论家仅在培训期间使用，BPCO还可以根据奖励定义信息（如参考答案或评分标准）对其进行约束，这些信息对政策来说是隐藏的。对照实验隔离了每种设计选择的影响。跨越数学推理任务，模型范围从1.5B参数",
+     "audio": "audio/2026-08-25/7.mp3"
     },
     {
      "journal": "arXiv cs.AI",
-     "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
-     "abstract": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We introduce VIALS, a visual question-answering benchmark with 161 such interpretation tasks, spanning the types of artifacts examined throughout experimental workflows in the biotech industry (rather than polished figures from publications and textbooks). While frontier vision-language models can now fluently describe natural images, we find that they are unable to accurately interpret these scientific images, reflecting limitations in domain knowledge and domain-specific visual reasoning capabilities. In contrast, scientists with relevant domain expertise find these visual interpretation tasks straightforward. AI that cannot similarly interpret such images will have limited utility in professional life sciences workflows, where such artifacts are central to how scientists reason, communicate, and make decisions.",
-     "date": "2026-08-21",
-     "url": "https://arxiv.org/abs/2608.21357v1",
-     "arxiv_id": "2608.21357v1",
-     "title_zh": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
-     "abstract_zh": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We introduce VIALS, a visual question-answering benchmark with 161 such interpretation tasks, spanning the types of artifacts examined throughout experimental workflows in the biotech industry (rather than polished figures from publications and textbooks). While frontier vision-language models can now fluently describe natural images, we find that they are unable to accurately interpret these scientific images, reflecting limitations in domain knowledge and domain-specific visual reasoning capabilities. In contrast, scientists with relevant domain expertise find these visual interpretation tasks straightforward. AI that cannot similarly interpret such images will have limited ut",
-     "audio": "audio/2026-08-24/8.mp3"
+     "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+     "abstract": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounded one. ReWorld separates the two during training and bounds them at inference. Mixed per-head attention windows confine most heads to the recent past while a small set of global heads attends over the entire history, and random head routing keeps either capability from binding to particular heads; random chunk dropping makes sparse histories in-distribution. At inference the whole past lives under a fixed budget: a bounded KV cache backed by a pose-indexed landmark bank, from which the model retrieves the landmarks nearest the current pose. A metric-scale-aligned data engine places eight sources -- Unreal-rendered fly-throughs, game roaming, and real-world footage -- on one physical action scale, so the same key press moves the camera the same distance in every source, and palindrome trajectories supply the revisit evidence that memory training needs. Distribution-matching distillation confined to a LoRA adapter then compresses sampling to four steps: one backbone serves both a high-fidelity multi-step mode and a real-time interactive one, streaming 704x1280 video across photorealistic, game-style, and stylized worlds. Under a three-axis protocol covering action following, long-horizon recall, and video quality, against six recent interactive world models it attains the best control fidelity ($11.95^\\circ$ rotation error and the best camera-motion consistency) and the best generation quality; and on minute-long out-and-back rollouts ($64$\\,s, $384$ latents), its fixed 12-chunk cache still regenerates the starting view -- at rollout lengths where a sliding window has long evicted the evidence and full-KV attention runs out of memory.",
+     "date": "2026-08-24",
+     "url": "https://arxiv.org/abs/2608.23565v1",
+     "arxiv_id": "2608.23565v1",
+     "title_zh": "ReWorld：具有长视界记忆的交互式世界模型",
+     "abstract_zh": "交互式世界模型必须遵循用户的行为，记住它所显示的位置，并实时流式传输。这种紧张是结构性的：控制想要短期的视野，记忆想要无限的视野。ReWorld在训练期间将两者分开，并在推理时对它们进行限制。混合人头注意窗口将大多数人头限制在最近的过去，而一小部分全局人头参与整个历史，随机人头路由使任一能力都不会绑定到特定的人头；随机块丢弃在分布中产生稀疏历史。在推理中，整个过去的生活在一个固定的预算下：一个有边界的KV缓存，由一个姿势索引的地标库支持，模型从中检索最接近当前姿势的地标。一个公制尺度对齐的数据引擎将八个来源——非真实渲染的飞行，游戏漫游和真实世界的镜头——放在一个物理动作上",
+     "audio": "audio/2026-08-25/8.mp3"
     },
     {
      "journal": "arXiv cs.AI",
-     "title": "AI with Authority, from Application to Silicon",
-     "abstract": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only economical but essential to productivity --- it is the incorruptible referee that lets one person safely direct autonomous machine work at scale. In five weeks, one researcher on consumer AI subscriptions directed a small fleet of AI agents from application code, through a verified compiler and executive, to a RISC-V processor taped out on a community silicon shuttle; no proof passed through human review, and no RTL was written by a human. The working discipline --- the Salt method --- rests on a proof kernel no hallucinated proof can pass: mathematical claims travel between agents as kernel-checked artifacts, and human attention is reserved for statements, designs, and rulings. Verification is stated link by link, from the Lean 4 kernel to SAT-checked equivalence at the silicon boundary. We publish the complete accounting: theorem provenance, a pre-registered token meter, floor-bounded human time, and an error ledger whose catch numbering runs to #256 --- a monotone counter over the mathematics campaign's append-only flags ledger, maintained 2026-07-07 to 2026-07-20 (one number, #79, was never assigned; later catches are recorded un-numbered) --- against zero incorrect proofs reaching the record.",
-     "date": "2026-08-21",
-     "url": "https://arxiv.org/abs/2608.21356v1",
-     "arxiv_id": "2608.21356v1",
-     "title_zh": "AI with Authority, from Application to Silicon",
-     "abstract_zh": "60年来，机器验证一直是主要的开销，只有特殊的工件才能负担得起。在这里，我们报告生成式人工智能颠倒了这种关系：在人工智能的速度下，机器验证不仅经济而且对生产力至关重要——它是一个廉洁的裁判，可以让一个人安全地指导自动机器大规模工作。在五周内，一位研究消费者人工智能订阅的研究人员指导了一小批人工智能代理，从应用程序代码，经过经过验证的编译器和执行器，到贴在社区硅航天飞机上的RISC-V处理器；没有任何证据是通过人工审核的，也没有任何RTL是由人类撰写的。工作规程——Salt方法——建立在一个幻觉证明无法通过的证明核上：数学声明作为核检查的工件在代理之间传递，而人类的注意力则保留在语句、设计和r上",
-     "audio": "audio/2026-08-24/9.mp3"
+     "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+     "abstract": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously perform such migrations? Existing benchmarks cannot answer this question because they evaluate only behavioural correctness, not whether the migration actually occurred. This leads an easy hack: agents copy the original implementation to make tests pass. We call this Blindness. To address this problem, we introduce SWE Refactor Bench, a benchmark comprising 20 whole-repository migrations, covering 4 kinds of technical debt. A three-stage evaluation protocol measures both migration completeness and behavioural correctness. (1) Migration Audit verifies that the migration occurred. (2) Behavioural Tests measure correctness with a fixed test suite. (3) Agentic Verification uses 6 independent coding agents to generate targeted tests for hidden behavioural differences. Across 520 runs from 8 frontier models and 26 model-effort configurations, only 28 of 520 runs ($5.4\\%$) pass all three stages, 13 of the 20 tasks receive no accepted solution, and the best model (claude-opus-5) scores $47.0/100$. Migration completeness and behavioural correctness are distinct abilities: a few runs preserve behaviour by skipping the migration and are stopped at Migration Audit; most attempt it and break behaviour, and are stopped at Behavioural Tests. Agents cannot deliver a perfect migration: among the 340 runs that pass Migration Audit, $58\\%$ reach $99\\%$ of the fixed checks, yet only $26\\%$ reach $100\\%$. Agent capability differs across migration categories: agents score $31.4$ on build toolchain rewrites but only $5.6$ on language rewrites. Together, these findings position SWE Refactor Bench as a rigorous testbed for developing coding agents for reliable whole-repository migrations.",
+     "date": "2026-08-24",
+     "url": "https://arxiv.org/abs/2608.23564v1",
+     "arxiv_id": "2608.23564v1",
+     "title_zh": "SWE重构工作台：编码代理能否完成长期的、全存储库的堆栈迁移？",
+     "abstract_zh": "现代软件系统在几十年的开发过程中积累了技术债务，这使得迁移成本高昂，而且很大程度上是手工的。随着编码代理在bug修复方面的能力越来越强，它们能自主地执行这样的迁移吗？现有的基准测试不能回答这个问题，因为它们只评估行为的正确性，而不是迁移是否实际发生。这导致了一个简单的破解：代理复制原始实现以使测试通过。我们称之为盲目。为了解决这个问题，我们引入了SWE重构工作台，这是一个包含20个完整存储库迁移的基准，涵盖了4种技术债务。一个三阶段评估协议测量迁移的完整性和行为的正确性。(1)迁移审计验证迁移是否发生。(2)行为测试使用固定的测试套件来衡量正确性。(3)机构验证使用6英寸",
+     "audio": "audio/2026-08-25/9.mp3"
     },
     {
      "journal": "arXiv cs.AI",
-     "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
-     "abstract": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many context-biasing methods improve recognition accuracy, they often do not address the practical requirements of modern production ASR systems: streaming inference, efficient batched decoding, user-specific context lists, and low runtime overhead. We propose TurboBias 2.0, a production-oriented framework for efficient phrase boosting in Transducer-based ASR systems. The framework extends GPU-accelerated TurboBias with a case-insensitive boosting graph and per-stream batched decoding, allowing each utterance in a batch to use an independent context-biasing configuration. This enables personalized context biasing for multiple simultaneous users without sharing or mixing their context lists. The proposed framework supports both offline and streaming inference and can be used with greedy and beam-search decoding. Experiments show that TurboBias 2.0 improves contextual phrase recognition while preserving low latency and high throughput.",
-     "date": "2026-08-21",
-     "url": "https://arxiv.org/abs/2608.21343v1",
-     "arxiv_id": "2608.21343v1",
-     "title_zh": "TurboBias 2.0：高效ASR系统的流上下文偏置",
-     "abstract_zh": "上下文化对于生产自动语音识别（ASR）系统至关重要，在这种系统中，必须在严格的延迟限制下准确识别用户提供的短语。尽管许多上下文偏置方法提高了识别精度，但它们通常不能满足现代生产ASR系统的实际需求：流推理、高效的批处理解码、用户特定的上下文列表和低运行时开销。我们提出了TurboBias 2.0，这是一个面向生产的框架，用于在基于传感器的ASR系统中进行有效的相位提升。该框架通过不区分大小写的增强图和逐流批处理解码扩展了gpu加速的TurboBias，允许批处理中的每个话语使用独立的上下文偏置配置。这可以为多个同时使用的用户提供个性化的上下文偏差，而无需共享或混合他们的上下文列表。的propo",
-     "audio": "audio/2026-08-24/10.mp3"
+     "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+     "abstract": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and the high cost of large-scale field inspections. To address this problem, we propose Expert-Grounded Distillation (EGD), a novel artificial intelligence framework that transfers institutional road safety expertise into a compact vision-language model for scalable visual road safety auditing. The key innovation is a quantified expert-grounding stage in which the teacher vision-language model is calibrated against authoritative field audits. Large-scale annotation is permitted only after the teacher reaches substantial agreement with expert risk assessments (Cohen's kappa = 0.74). The calibrated teacher then generates structured supervision that is distilled into an 8-billion-parameter student vision-language model using Low-Rank Adaptation and a single leakage-free prompt. We also introduce Bangladesh Road Safety Audit (BD-ARSA), the first open, expert-grounded Bangladeshi visual road safety audit dataset containing 21,947 image-audit records with near-national coverage, and Expert-Grounded Road Safety Auditor (EG-ARSA), the first vision-language model developed specifically for this task. Experimental results show that grounded fine-tuning substantially improves ordinal risk assessment over the zero-shot baseline, while blind expert evaluation demonstrates that the compact student outperforms both its 31 billion-parameter teacher and Gemini-2.5-Flash. These findings demonstrate that EGD provides an effective and scalable engineering solution for proactive road safety auditing in resource-constrained environments.",
+     "date": "2026-08-24",
+     "url": "https://arxiv.org/abs/2608.23563v1",
+     "arxiv_id": "2608.23563v1",
+     "title_zh": "EG-ARSA ：低资源环境下基于专家的开放式道路安全可视化审核模型",
+     "abstract_zh": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and the high cost of large-scale field inspections. To address this problem, we propose Expert-Grounded Distillation (EGD), a novel artificial intelligence framework that transfers institutional road safety expertise into a compact vision-language model for scalable visual road safety auditing. The key innovation is a quantified expert-grounding stage in which the teacher vision-language model is calibrated against authoritative field audits. Large-scale annotation is permitted only after the teacher reaches substantial agreement with expert risk assessments (Cohen's kappa = 0.74). The calibrated teacher then generates structured supervision that is distilled into an 8-billion-parameter student vi",
+     "audio": "audio/2026-08-25/10.mp3"
     },
     {
      "journal": "arXiv cs.LG",
-     "title": "Primal Acceleration of Newton's Method",
-     "abstract": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of $O(1/k^3)$ in terms of the functional residual. To the best of our knowledge, this is the first second-order method for this problem class attaining this rate while relying solely on one linear system solve per iteration (without solving auxiliary nonlinear regularized subproblems, such as cubic regularization, performing nonlinear parameter searches, or using dual extragradient corrections). Our method can be implemented in a Hessian-free way, using an inexact linear system solver, while preserving the fast global rate. We further extend our construction to arbitrary geometry through Bregman divergence, and to composite optimization problems.",
-     "date": "2026-08-21",
-     "url": "https://arxiv.org/abs/2608.21359v1",
-     "arxiv_id": "2608.21359v1",
-     "title_zh": "牛顿法的原始加速度",
-     "abstract_zh": "提出了一种新的Lipschitz连续Hessian凸函数最小化的直接加速牛顿法。该算法只使用原始变量，每次迭代只执行一次线性求解。通过简单的预定参数选择，实现了函数残差的全局收敛速率为$O(1/k^3)$。据我们所知，这是该问题类实现此速率的第一个二阶方法，而每次迭代仅依赖一个线性系统解（不解决辅助非线性正则化子问题，如三次正则化，执行非线性参数搜索，或使用对偶超梯度修正）。我们的方法可以在保持快速全局速率的同时，使用非精确线性系统解算器以无hessian方式实现。我们通过布雷格曼进一步将我们的构造扩展到任意几何",
-     "audio": "audio/2026-08-24/11.mp3"
+     "title": "How to Train a Critic Stably and Efficiently",
+     "abstract": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. We study this instability and develop \\textbf{Best-Practice Critic Optimization (BPCO)}, a recipe that combines DPPO, value predictions bounded to the reward range, Monte Carlo value targets, unnormalized policy advantages, and length-adaptive generalized advantage estimation. Because the critic is used only during training, BPCO can also condition it on reward-defining information, such as a reference answer or grading rubric, that is hidden from the policy. Controlled experiments isolate the effect of each design choice. Across mathematical reasoning tasks with models ranging from 1.5B parameters to 30B-A3B mixtures of experts, BPCO improves a strong critic-based baseline consistently, and matches or exceeds a group-based baseline while sampling one response per prompt. The same recipe also improves learning with rubric-based rewards. These results show that a carefully designed critic provides a reliable alternative to group-relative advantage estimation. Code is available at https://github.com/QPHutu/golden_critic",
+     "date": "2026-08-24",
+     "url": "https://arxiv.org/abs/2608.23566v1",
+     "arxiv_id": "2608.23566v1",
+     "title_zh": "如何稳定高效地培养批评家",
+     "abstract_zh": "基于群体的强化学习方法，如用于大型语言模型的GRPO，通过对每个提示进行多个响应采样来避免训练评论家。一个可靠的评论家可以从一个反应中估计出令牌级别的优势，但是标准的基于评论家的训练方法通常是不稳定的。我们研究了这种不稳定性，并开发了最佳实践评论家优化（BPCO），这是一种结合DPPO、奖励范围内的价值预测、蒙特卡罗价值目标、非标准化政策优势和长度自适应广义优势估计的配方。由于评论家仅在培训期间使用，BPCO还可以根据奖励定义信息（如参考答案或评分标准）对其进行约束，这些信息对政策来说是隐藏的。对照实验隔离了每种设计选择的影响。跨越数学推理任务，模型范围从1.5B参数",
+     "audio": "audio/2026-08-25/11.mp3"
     },
     {
      "journal": "arXiv cs.LG",
-     "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
-     "abstract": "Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, without explicitly modeling the molecular changes expected under treatment. We propose PerturbRx, a treatment-conditioned representation learning framework that learns intervention-induced latent transitions and uses them as patient-drug response features. PerturbRx trains a drug- and dose-conditioned transition predictor from context-matched but cell-unpaired control and treated single-cell populations, then freezes and transfers the predictor to pretreatment patient profiles without requiring post-treatment measurements. The transition is combined with patient and drug representations to predict response. Across TCGA and patient-derived xenograft benchmarks, PerturbRx achieves the strongest aggregate predictive performance among the evaluated methods. These results support perturbation-pretrained latent transitions as useful representations for patient-level drug-response prediction.",
-     "date": "2026-08-21",
-     "url": "https://arxiv.org/abs/2608.21349v1",
-     "arxiv_id": "2608.21349v1",
-     "title_zh": "PerturbRx：学习治疗条件下的潜在转变，用于预测患者药物反应",
-     "abstract_zh": "Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, without explicitly modeling the molecular changes expected under treatment. We propose PerturbRx, a treatment-conditioned representation learning framework that learns intervention-induced latent transitions and uses them as patient-drug response features. PerturbRx trains a drug- and dose-conditioned transition predictor from context-matched but cell-unpaired control and treated single-cell populations, then freezes and transfers the predictor to pretreatment patient profiles without requiring post-treatment measurements. The transition is combined with patient and drug representations to predict response. Across TCGA and patient-derived xenograft benchmarks, PerturbRx achieves the strongest aggr",
-     "audio": "audio/2026-08-24/12.mp3"
+     "title": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
+     "abstract": "Discrete diffusion models offer a promising alternative to autoregressive generation by enabling parallel updates, but their sampling efficiency can depend strongly on the choice of the forward process and the sampler. For the uniform forward process, existing lower bounds for the standard $τ$-leaping sampler scale linearly with the ambient dimension $d$, raising the question of whether this dependence is intrinsic to the forward process. We answer this question in the negative. We consider a first-order sampler based on the leave-one-out denoiser for uniform and remasking processes whose coordinate updates can be performed in parallel. In both cases, the sampler can correct denoising mistakes during the sampling process, which becomes necessary when many coordinates are updated together. Our main result establishes an adaptive sampling guarantee: up to logarithmic factors, $N = O(\\mathrm{DTC}(X_0) / \\varepsilon)$ discretization steps suffice to achieve sampling error $O(\\varepsilon_{\\mathrm{score}}+\\varepsilon)$, where $\\varepsilon_{\\mathrm{score}}$ is the error in score estimation. Thus, the sampling complexity is governed by the intrinsic dependence structure of the target distribution, as measured by its dual total correlation $\\mathrm{DTC}(X_0)$, rather than directly by the ambient dimension $d$. Our analysis proceeds through a Bayes-optimal auxiliary sampler that separates discretization error from score-estimation error. We also derive an exact information-theoretic representation of the discretization error in terms of the mutual information between different coordinates of the forward process at different times. This representation applies to general forward processes and, in the uniform and remasking cases, can be controlled by $\\mathrm{DTC}(X_0)$. Numerical experiments on structured synthetic distributions illustrate the predicted dimension-adaptive behavior.",
+     "date": "2026-08-24",
+     "url": "https://arxiv.org/abs/2608.23554v1",
+     "arxiv_id": "2608.23554v1",
+     "title_zh": "证明自适应采样与均匀和重请求离散扩散模型",
+     "abstract_zh": "离散扩散模型通过实现并行更新，为自回归生成提供了一个有希望的替代方案，但它们的采样效率可能强烈依赖于前向过程和采样器的选择。对于均匀正演过程，标准$τ$跳跃采样器的现有下界与环境维数$d$呈线性关系，这就提出了这种相关性是否为正演过程所固有的问题。我们的回答是否定的。我们考虑了一种基于留一去噪的一阶采样器，用于可以并行进行坐标更新的均匀和重请求过程。在这两种情况下，采样器都可以纠正采样过程中的去噪错误，这在许多坐标一起更新时是必要的。我们的主要结果建立了一个自适应采样保证：高达对数因子，$N = O（\\mathr）",
+     "audio": "audio/2026-08-25/12.mp3"
     }
    ]
   ],
@@ -161,21 +161,9 @@
      "pmid": "42628554",
      "doi": "10.1016/S0140-6736(26)01143-8",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42628554/",
-     "title_zh": "Rezpegaldesleukin治疗中重度特应性皮炎（REZOLVE-AD）：一项为期16周的国际双盲、安慰剂对照、随机2b期研究的最终结果",
-     "abstract_zh": "Rezpegaldesleukin是一种白细胞介素-2受体激动剂，可选择性地扩展和增强调节性T细胞（Tregs）的功能，为自身免疫性和炎症性疾病（如特应性皮炎）提供了一种新的治疗方法。我们的目的是比较rezpegaldesleukin和安慰剂对未接受生物治疗的中度至重度特应性皮炎患者的疗效和安全性分析。REZOLVE-AD是一项2b期、随机、双盲、安慰剂对照研究，在10个国家（澳大利亚、保加利亚、加拿大、克罗地亚、捷克、德国、匈牙利、波兰、西班牙和美国）的107个社区研究中心或医院进行。符合条件的患者是在入组前至少12个月确诊患有特应性皮炎（美国皮肤病学会共识标准）的成年人（18岁或以上），并伴有中度至重度疾病活动",
-     "audio": "audio/2026-08-24/13.mp3"
-    },
-    {
-     "journal": "The Lancet",
-     "title": "Expanding regulatory T cells to treat atopic dermatitis.",
-     "abstract": "",
-     "date": "2026-08-21",
-     "pmid": "42628553",
-     "doi": "10.1016/S0140-6736(26)01242-0",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42628553/",
-     "title_zh": "扩大调节性T细胞治疗特应性皮炎。",
-     "abstract_zh": "",
-     "audio": "audio/2026-08-24/14.mp3"
+     "title_zh": "Rezpegaldesleukin治疗中重度特应性皮炎（ REZOLVE-AD ） ：一项国际性、双盲、安慰剂对照、随机2b期研究的16周诱导期的最终结果。",
+     "abstract_zh": "Rezpegaldesleukin is an interleukin-2 receptor agonist that selectively expands and enhances the function of regulatory T cells (Tregs), offering a novel therapeutic approach for autoimmune and inflammatory diseases such as atopic dermatitis. We aimed to compare the efficacy and safety analyses of rezpegaldesleukin with placebo in adults with moderate-to-severe atopic dermatitis naive to biological treatments. REZOLVE-AD was a phase 2b, randomised, double-blind, placebo-controlled study conducted in 107 community research centres or hospitals in ten countries (Australia, Bulgaria, Canada, Croatia, Czechia, Germany, Hungary, Poland, Spain, and the USA). Eligible patients were adults (aged 18 years or older) with confirmed atopic dermatitis (American Academy of Dermatology Consensus Criteria) diagnosed at least 12 months before enrolment, with moderate-to-severe disease activity defined by",
+     "audio": "audio/2026-08-25/13.mp3"
     },
     {
      "journal": "The Lancet",
@@ -186,44 +174,56 @@
      "doi": "10.1016/S0140-6736(26)00986-4",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42624811/",
      "title_zh": "机械臂辅助与传统全膝关节置换术（RACER-Knee）：一项实用的、多中心的、参与者屏蔽和评估屏蔽的、优势的、随机对照试验。",
-     "abstract_zh": "Robotic systems are being increasingly used to assist with total knee replacement (TKR). Whether robotic systems improve outcomes after TKR is uncertain. We aimed to ascertain the clinical efficacy and cost-effectiveness of the Mako robotic-arm system compared with conventional instruments for TKR. We conducted a participant-masked and assessor-masked pragmatic, superiority, randomised controlled trial at ten hospitals in Great Britain involving 33 surgeons. Patients with advanced knee osteoarthritis underwent TKR with conventional instruments (cTKR) or with the Mako robotic-arm-assisted system (rTKR). Key exclusion criteria were inflammatory arthropathy, previous fracture, or the need for complex implants. Participants were randomly assigned (1:1) through a remote computer system using minimisation by age, BMI, centre, surgeon, and primary knee compartment involved. Participants and ass",
-     "audio": "audio/2026-08-24/15.mp3"
-    },
-    {
-     "journal": "The Lancet",
-     "title": "Oropharyngeal ulcers in Yao syndrome with multisystem involvement.",
-     "abstract": "",
-     "date": "2026-08-20",
-     "pmid": "42624807",
-     "doi": "10.1016/S0140-6736(26)01243-2",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42624807/",
-     "title_zh": "Oropharyngeal ulcers in Yao syndrome with multisystem involvement.",
-     "abstract_zh": "",
-     "audio": "audio/2026-08-24/16.mp3"
+     "abstract_zh": "机器人系统越来越多地用于辅助全膝关节置换术（TKR）。机器人系统是否能改善TKR后的治疗效果尚不确定。我们的目的是确定Mako机械臂系统与传统TKR仪器相比的临床疗效和成本效益。我们在英国的10家医院进行了一项包括33名外科医生在内的参与者和评估者掩盖的实用、优势、随机对照试验。晚期膝关节骨性关节炎患者采用传统器械（cTKR）或Mako机械臂辅助系统（rTKR）进行TKR。主要的排除标准是炎性关节病、既往骨折或需要复杂的植入物。参与者通过远程计算机系统随机分配（1:1），根据年龄、BMI、中心、外科医生和主要涉及的膝关节室进行最小化。参与者和屁股",
+     "audio": "audio/2026-08-25/14.mp3"
     },
     {
      "journal": "Cell",
-     "title": "Gut microbiota generate dinitrosyl iron complexes with cardiometabolic benefits.",
-     "abstract": "Gut bacteria affect host physiology, but the underlying mechanisms are not completely understood. We identify a pathway whereby gut microbes convert inorganic nitrate and non-heme iron into mobile bioactive dinitrosyl iron complexes (DNICs) that are distributed systemically and affect host metabolism. Electron paramagnetic resonance detected DNICs in tissues of conventional but not germ-free mice. Mouse and human feces and E. coli generated DNICs from nitrate and iron citrate, whereas a nitrate-reductase-deficient mutant did not. Dietary supplementation with nitrate+iron citrate or synthetic DNICs increased tissue DNIC levels and ameliorated cardiometabolic dysfunction in Western diet-fed mice. Additionally, in HepG2 cells and human hepatocyte spheroids, DNIC reduced fatty acid-induced steatosis. DNIC bioactivity is mediated by the Fe(NO)",
-     "date": "2026-08-19",
-     "pmid": "42617596",
-     "doi": "10.1016/j.cell.2026.07.055",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42617596/",
-     "title_zh": "Gut microbiota generate dinitrosyl iron complexes with cardiometabolic benefits.",
-     "abstract_zh": "肠道细菌影响宿主生理，但其潜在机制尚不完全清楚。我们确定了肠道微生物将无机硝酸盐和非血红素铁转化为可移动的生物活性二硝基铁复合物（dnic）的途径，这些复合物分布在全身并影响宿主的代谢。电子顺磁共振检测常规而非无菌小鼠组织中的dnic。小鼠和人类的粪便以及大肠杆菌都能从硝酸盐和柠檬酸铁中产生dnic，而缺乏硝酸盐还原酶的突变体则不能。在西方饮食喂养的小鼠中，添加硝酸盐+柠檬酸铁或合成DNIC可增加组织DNIC水平并改善心脏代谢功能障碍。此外，在HepG2细胞和人肝细胞球状体中，DNIC可减少脂肪酸诱导的脂肪变性。DNIC的生物活性由Fe（NO）介导。",
-     "audio": "audio/2026-08-24/17.mp3"
+     "title": "DDIAS shields single-stranded DNA in mitosis and promotes vertebrate brain development.",
+     "abstract": "DNA double-strand breaks and unresolved DNA replication intermediates are particularly dangerous during mitosis. Paradoxically, cells inactivate canonical DNA repair mechanisms during chromosome segregation in favor of alternative pathways that depend on TOPBP1 and CIP2A, but how these pathways function is still poorly defined. Here, we describe the identification of DDIAS as a mitosis-specific DNA damage response protein. We establish DDIAS as a phosphorylation-dependent component and effector of the TOPBP1-CIP2A complex, and we demonstrate that DDIAS protects single-stranded DNA from aberrant nucleolytic processing to safeguard chromosome integrity during mitosis, particularly in BRCA1-/BRCA2-deficient cells. We also identify biallelic inactivating mutations in DDIAS in patients with a severe neurodevelopmental disorder and, using human cerebral organoids and zebrafish, we show that DDIAS plays a critical and evolutionarily conserved role in limiting DNA damage specifically in neural progenitor cells. These findings demonstrate a physiological role for the DNA damage response in mitosis during vertebrate neurodevelopment.",
+     "date": "2026-08-24",
+     "pmid": "42636811",
+     "doi": "10.1016/j.cell.2026.07.041",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42636811/",
+     "title_zh": "DDIAS在有丝分裂中保护单链DNA，促进脊椎动物大脑发育。",
+     "abstract_zh": "DNA双链断裂和未解决的DNA复制中间体在有丝分裂过程中特别危险。矛盾的是，在染色体分离过程中，细胞使典型的DNA修复机制失活，而支持依赖于TOPBP1和CIP2A的替代途径，但这些途径的功能仍然不清楚。在这里，我们描述了DDIAS作为有丝分裂特异性DNA损伤反应蛋白的鉴定。我们确定DDIAS是TOPBP1-CIP2A复合体的磷酸化依赖性组分和效应物，并且我们证明DDIAS保护单链DNA免受异常的核溶解加工，以保护有丝分裂期间染色体的完整性，特别是在BRCA1-/ brca2缺陷细胞中。我们还在患有严重神经发育障碍的患者中发现了DDIAS中的双等位基因失活突变，并且使用人类大脑类器官和斑马鱼，我们表明DD",
+     "audio": "audio/2026-08-25/15.mp3"
     },
     {
-     "journal": "Cell",
-     "title": "Synthetic transcription factors designed by domain recombination enhance CAR T cell antitumor function.",
-     "abstract": "Human protein-coding genes evolved via rearrangement of domains from ancestral genes. We develop a scalable, evolutionarily guided method to assemble novel genes from constituent domains within a protein family, termed DESynR (domain engineered via synthesis and recombination) genes. In primary human T cells, DESynR activator protein-1 (AP-1) transcription factors (TFs) significantly outperform natural AP-1 TFs across in vitro and in vivo antitumor assays. DESynR AP-1 TFs induce broad transcriptional and epigenetic reprogramming and establish non-natural T cell states that optimize features of exhaustion, effector and cytotoxic function, and persistence-sometimes co-opting gene modules from disparate cell types. Reprogramming is primarily driven by differential regulation of established AP-1-bound regulatory elements rather than unique binding. Finally, we screen DESynR erythroblast transformation-specific (ETS) and forkhead box (FOX) TFs to support generalizability across protein families. Overall, we demonstrate that reconfiguring existing protein domains may uncover non-evolved genes that program therapeutically relevant cell states.",
-     "date": "2026-08-19",
-     "pmid": "42617595",
-     "doi": "10.1016/j.cell.2026.07.054",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42617595/",
-     "title_zh": "通过结构域重组设计合成转录因子增强CAR - T细胞抗肿瘤功能。",
-     "abstract_zh": "人类蛋白质编码基因是通过祖先基因的结构域重排而进化的。我们开发了一种可扩展的、进化指导的方法，从蛋白质家族的组成域组装新基因，称为DESynR（通过合成和重组的结构域工程）基因。在原代人T细胞中，DESynR激活蛋白-1 （AP-1）转录因子（TFs）在体外和体内抗肿瘤试验中的表现明显优于天然AP-1 TFs。DESynR AP-1 TFs诱导广泛的转录和表观遗传重编程，并建立非自然T细胞状态，优化耗竭、效应和细胞毒性功能以及持久性的特征——有时从不同的细胞类型中选择基因模块。重编程主要是由已建立的ap -1结合调控元件的差异调控驱动的，而不是唯一的结合。最后，我们筛选DESynR红母细胞tran",
-     "audio": "audio/2026-08-24/18.mp3"
+     "journal": "Nature Medicine",
+     "title": "Citywide implementation of a rapid whole-genome sequencing program for critically ill pediatric patients.",
+     "abstract": "Rapid whole-genome sequencing (rWGS) enables timely diagnosis and management of critically ill patients, particularly in consanguineous populations with a high burden of recessive diseases. Here we report Little Falcon, a citywide rWGS program implemented within centralized neonatal and pediatric intensive care units in Dubai. In total, 100 critically ill patients from 18 Middle Eastern and Asian countries underwent trio rWGS with a median turnaround time of 3.4 days. The overall diagnostic yield was 53% (95% CI 43.3-62.5%), rising to 80% in consanguineous families (P < 0.001). Multiple molecular findings were identified in 12% of patients, including dual diagnoses (5%), while additional actionable findings included newborn screening-relevant variants (4%) and American College of Medical Genetics secondary or incidental findings (3%). rWGS led to clinically meaningful management changes in 53% of patients including those with (n = 45) or without (n = 8) molecular diagnoses, altering disease trajectories in 16%. Compared with a matched historical cohort of critically ill patients receiving standard genetic testing, rWGS significantly reduced diagnostic time (3.4 versus 38 days, P < 0.001), increased diagnostic yield (53% versus 30%, P < 0.01) and improved clinical management (53% versus 18%, P < 0.001). These findings support integrating rWGS into routine neonatal and pediatric intensive care units within a citywide healthcare system.",
+     "date": "2026-08-24",
+     "pmid": "42637935",
+     "doi": "10.1101/gr.094052.109",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42637935/",
+     "title_zh": "全市实施危重儿科患者快速全基因组测序计划。",
+     "abstract_zh": "快速全基因组测序（rWGS）能够及时诊断和管理危重患者，特别是在具有高隐性疾病负担的近亲人群中。在这里，我们报告小猎鹰，在迪拜集中新生儿和儿科重症监护病房实施全市范围内的rWGS计划。共有来自18个中东和亚洲国家的100名危重患者接受了三次rWGS，平均周转时间为3.4天。总诊断率为53% (95% CI 43.3-62.5%)，在近亲家庭中上升至80% （P < 0.001）。在12%的患者中发现了多种分子发现，包括双重诊断（5%），而其他可采取行动的发现包括新生儿筛查相关变异（4%）和美国医学遗传学学院继发或偶然发现（3%）。rWGS导致有临床意义的管理改变",
+     "audio": "audio/2026-08-25/16.mp3"
+    },
+    {
+     "journal": "Nature Medicine",
+     "title": "Dysregulated adult hippocampal neurogenesis in major depressive disorders.",
+     "abstract": "Major depressive disorder (MDD) is associated with reduced hippocampal volume, altered connectivity and negative memory bias, suggesting disrupted hippocampal plasticity. Dysregulated adult hippocampal neurogenesis is a potential contributor, but its relevance in humans and role in MDD remain unclear. Here we investigated the molecular basis of hippocampal dysfunction in nonmedicated individuals with MDD by integrating analyses of neurogenic trajectories, cell-type- and subfield-specific gene expression, chromatin accessibility and protein expression. We identify a neurogenic lineage in the adult human hippocampal subgranular zone and provide evidence for a stalled neurogenic process in MDD, associated with transcriptional regulation, stress-related reprogramming and interferon signaling across developmental stages. Excitatory and inhibitory neurons show dysregulation of transcription factor networks affecting cell states. Cellular stress, excitatory-inhibitory imbalance, impaired synaptic plasticity, reduced metabolic capacity and immune activation, underlie impaired neurogenesis and reduced hippocampus circuit plasticity. Findings indicate genetic and epigenetic regulation of gene expression in MDD, and overlapping pathogenetic mechanisms with autoimmune, neurodevelopmental and neurodegenerative diseases. This work provides a new understanding of the pathogenesis of hippocampus-dependent cognitive symptoms in MDD and suggests potential therapeutic targets.",
+     "date": "2026-08-21",
+     "pmid": "42629468",
+     "doi": "10.1093/bioinformatics/btx506",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42629468/",
+     "title_zh": "严重抑郁症中成人海马神经发生失调。",
+     "abstract_zh": "Major depressive disorder (MDD) is associated with reduced hippocampal volume, altered connectivity and negative memory bias, suggesting disrupted hippocampal plasticity. Dysregulated adult hippocampal neurogenesis is a potential contributor, but its relevance in humans and role in MDD remain unclear. Here we investigated the molecular basis of hippocampal dysfunction in nonmedicated individuals with MDD by integrating analyses of neurogenic trajectories, cell-type- and subfield-specific gene expression, chromatin accessibility and protein expression. We identify a neurogenic lineage in the adult human hippocampal subgranular zone and provide evidence for a stalled neurogenic process in MDD, associated with transcriptional regulation, stress-related reprogramming and interferon signaling across developmental stages. Excitatory and inhibitory neurons show dysregulation of transcription fa",
+     "audio": "audio/2026-08-25/17.mp3"
+    },
+    {
+     "journal": "Nature Medicine",
+     "title": "Responsiveness of epigenetic aging biomarkers to longevity interventions in humans.",
+     "abstract": "Aging biomarkers can potentially allow researchers to rapidly monitor the impact of an aging intervention without the need for decade-spanning trials. However, before the use of aging biomarkers, such as epigenetic clocks, as surrogate endpoints, their responsiveness to interventions that target aging must be tested. Here we curate TranslAGE, a harmonized database of 51 public and private longitudinal interventional studies, and calculate a consistent set of 16 prominent epigenetic clocks for each study, along with 94 other DNA methylation (DNAm) biomarkers that can help explain the changes observed for each clock. Using this database, we discover patterns of responsiveness across a variety of interventions and DNAm biomarkers. For example, clocks trained to predict mortality or pace of aging show the strongest responses across all interventions and show consistent results with one another; pharmacological and lifestyle interventions drive the strongest responses from DNAm biomarkers; and the characteristics of the study population and study duration are key factors in determining the responsiveness of DNAm biomarkers to an intervention. Moreover, clocks with multiple subscores (that is 'explainable clocks') provide specificity and greater mechanistic insight into the responsiveness of interventions than single-score clocks. These findings can help to design future clinical trials by guiding the choice of interventions and of specific subsets of DNAm biomarkers to minimize multiple testing, study duration, study population and sample size, with the eventual aim of uncovering DNAm biomarkers that can be used as surrogate aging endpoints.",
+     "date": "2026-08-21",
+     "pmid": "42629466",
+     "doi": "10.1007/s00439-011-1118-2",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42629466/",
+     "title_zh": "表观遗传衰老生物标志物对人类长寿干预的响应性。",
+     "abstract_zh": "衰老生物标志物可以让研究人员快速监测衰老干预的影响，而无需进行长达十年的试验。然而，在使用衰老生物标志物（如表观遗传时钟）作为替代终点之前，必须测试它们对针对衰老的干预措施的反应性。在这里，我们整理了翻译，这是一个由51个公共和私人纵向介入研究组成的协调数据库，并为每项研究计算了一组一致的16个突出的表观遗传时钟，以及94个其他DNA甲基化（DNAm）生物标志物，这些生物标志物可以帮助解释观察到的每个时钟的变化。使用该数据库，我们发现了各种干预措施和DNAm生物标志物的响应模式。例如，经过训练预测死亡率或衰老速度的时钟在所有干预措施中表现出最强烈的反应，并显示出彼此一致的结果",
+     "audio": "audio/2026-08-25/18.mp3"
     }
    ]
   ],
@@ -238,45 +238,9 @@
      "pmid": "42623297",
      "doi": "10.15585/mmwr.mm7422a3",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42623297/",
-     "title_zh": "猴痘病毒监测-美国，2024-2025。",
-     "abstract_zh": "自2022年猴痘病毒（MPXV）感染全球暴发以来，美国的病例已大幅下降；然而，持续的低水平传播仍在继续。为了评估2024-2025年美国MPXV感染病例的趋势，研究人员分析了来自CDC数据平台和国家法定疾病监测系统的数据。2024年，美国共报告了2803例MPXV感染病例，其中包括1例与旅行相关的进化支Ib病例。2025年共报告2519例，其中10例为Ib支。2025年9月至10月期间报告的MPXV感染病例数是2024年同期的两倍，尽管到2025年12月底病例已恢复到背景水平。MPXV感染患者的人口统计学特征，包括性别、种族分布",
-     "audio": "audio/2026-08-24/19.mp3"
-    },
-    {
-     "journal": "MMWR",
-     "title": "QuickStats: Age-Adjusted Alcohol-Induced Death Rates* Among Adults Aged ≥45 Years, by Sex - United States, 2014-2024.",
-     "abstract": "",
-     "date": "2026-08-20",
-     "pmid": "42623290",
-     "doi": "10.15585/mmwr.mm7532a3",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42623290/",
-     "title_zh": "QuickStats: 2014-2024年美国年龄≥45岁成人按性别调整的酒精致死亡率*",
-     "abstract_zh": "",
-     "audio": "audio/2026-08-24/20.mp3"
-    },
-    {
-     "journal": "MMWR",
-     "title": "Notes from the Field: Dengue Outbreak - Naoero, 2025.",
-     "abstract": "",
-     "date": "2026-08-20",
-     "pmid": "42623287",
-     "doi": "10.1371/journal.pbio.3002834",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42623287/",
-     "title_zh": "Notes from the Field: Dengue Outbreak - Naoero, 2025.",
-     "abstract_zh": "",
-     "audio": "audio/2026-08-24/21.mp3"
-    },
-    {
-     "journal": "Lancet Planetary Health",
-     "title": "Planetary Health Research Digest.",
-     "abstract": "",
-     "date": "2026-08-20",
-     "pmid": "42624812",
-     "doi": "10.1016/j.lanplh.2026.101528",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42624812/",
-     "title_zh": "Planetary Health Research Digest.",
-     "abstract_zh": "",
-     "audio": "audio/2026-08-24/22.mp3"
+     "title_zh": "猴痘病毒监测-美国， 2024-2025。",
+     "abstract_zh": "Since the onset of a global outbreak of monkeypox virus (MPXV) infections in 2022, cases have declined substantially in the United States; however, ongoing low-level transmission has persisted. To assess trends in cases of MPXV infection in the United States during 2024-2025, investigators analyzed data from the One CDC Data Platform and the National Notifiable Diseases Surveillance System. In 2024, a total of 2,803 cases of MPXV infection were reported in the United States, including one travel-associated clade Ib case. In 2025, a total of 2,519 cases were reported, including 10 clade Ib cases. The number of reported cases of MPXV infection during September-October 2025 was double that during the same period in 2024, although cases returned to background levels by the end of December 2025. Demographic characteristics of patients with MPXV infections, including distributions by sex, race",
+     "audio": "audio/2026-08-25/19.mp3"
     },
     {
      "journal": "Lancet Planetary Health",
@@ -286,9 +250,9 @@
      "pmid": "42607702",
      "doi": "10.1016/j.lanplh.2026.101494",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42607702/",
-     "title_zh": "Exceeding human heat tolerance in a warming, ageing world: a global projection modelling study.",
+     "title_zh": "在一个变暖、老龄化的世界中超越人类的耐热性：一项全球投影模型研究。",
      "abstract_zh": "在一个不断变暖的世界里，了解人类耐热极限将在何时、何地以及在多大程度上被突破变得越来越重要。以前的预测将健康年轻人的热量限制适用于所有年龄组，忽视了老年人更大的脆弱性。随着全球人口老龄化，这种疏忽可能会严重低估未来的高温风险。在这项研究中，我们的目的是研究年龄特异性耐热性在多大程度上改变了热极限超出的全球预测。我们将实验得出的年轻人（18-39岁）、中年人（40-59岁）和老年人（≥60岁）的热量限制与气候预测和年龄分层人口预测相结合，以评估在高于工业化前水平的1-4°C全球变暖下，这些限制可能在何处以及在多大程度上被打破。气候预测包括偏差校正",
-     "audio": "audio/2026-08-24/23.mp3"
+     "audio": "audio/2026-08-25/20.mp3"
     },
     {
      "journal": "Lancet Planetary Health",
@@ -300,7 +264,19 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42526478/",
      "title_zh": "生态集体繁荣（e-co-flourishing）：一个指导创新和研究的框架。",
      "abstract_zh": "不断融合的生态和社会危机暴露了人类进步的主流模式的局限性，凸显出需要采取更具包容性和跨学科的方法来促进人类和非人类生活的福祉和繁荣。在这一个人观点中，我们提出了一种生态集体繁荣（e-co-flourishing）的方法，即人类自身的繁荣与自然生态系统及其集体和个人组成部分的繁荣一起追求。我们提供了一个启发式翻译框架，包括方法论方法；指导原则;并在假设结果、变化途径（机制）、关键背景因素（调节因子）和干预特征方面提出了方案理论。该框架旨在将理论与有效、可扩展和促进的电子共同繁荣干预措施的实际应用联系起来",
-     "audio": "audio/2026-08-24/24.mp3"
+     "audio": "audio/2026-08-25/21.mp3"
+    },
+    {
+     "journal": "Lancet Planetary Health",
+     "title": "Mechanisms underpinning flourishing at the interface of humans and other natural entities: an umbrella review.",
+     "abstract": "Ecological-collective-flourishing (e-co-flourishing) describes the interconnected flourishing of human and non-human natural entities. Despite existing conceptual frameworks, translation into practice remains inadequate owing to insufficient synthesis of empirically tested mechanisms driving change across human and ecological systems. We conducted an umbrella review of systematic reviews examining mechanisms at the e-co-flourishing interface. Searches of seven databases and four grey literature sources identified nine eligible reviews. Evidence supported several cross-domain mechanisms, including psychological (eg, attention restoration and reduced stress), social (eg, cohesion and contact), physical (eg, activity), and environmental pathways (eg, reduced stressors and enhanced environmental quality). Psychological mechanisms showed the most consistent support, whereas evidence for other mechanism domains was mixed. Evidence for causality was weak and largely derived from cross-sectional and qualitative studies, and no reviews examined reciprocal mechanisms influencing both human and non-human flourishing. Future research should prioritise rigorous designs, theory-driven testing, and replication to strengthen evidence for equitable and sustainable e-co-flourishing pathways.",
+     "date": "2027-06-22",
+     "pmid": "42526477",
+     "doi": "10.1016/j.lanplh.2026.101450",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42526477/",
+     "title_zh": "支撑人类和其他自然实体界面繁荣的机制：概览。",
+     "abstract_zh": "Ecological-collective-flourishing (e-co-flourishing) describes the interconnected flourishing of human and non-human natural entities. Despite existing conceptual frameworks, translation into practice remains inadequate owing to insufficient synthesis of empirically tested mechanisms driving change across human and ecological systems. We conducted an umbrella review of systematic reviews examining mechanisms at the e-co-flourishing interface. Searches of seven databases and four grey literature sources identified nine eligible reviews. Evidence supported several cross-domain mechanisms, including psychological (eg, attention restoration and reduced stress), social (eg, cohesion and contact), physical (eg, activity), and environmental pathways (eg, reduced stressors and enhanced environmental quality). Psychological mechanisms showed the most consistent support, whereas evidence for other",
+     "audio": "audio/2026-08-25/22.mp3"
     }
    ]
   ]
